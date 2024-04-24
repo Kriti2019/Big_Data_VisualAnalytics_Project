@@ -1,0 +1,1922 @@
+[
+  {
+    "year": 2010,
+    "visitors_type": "domestic",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 4087968,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "domestic",
+    "rank": 2,
+    "name": "Qutub Minar",
+    "visitors": 2498907,
+    "State": "Delhi"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "domestic",
+    "rank": 3,
+    "name": "Red Fort",
+    "visitors": 2262810,
+    "State": "Delhi"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "domestic",
+    "rank": 4,
+    "name": "Sun Temple",
+    "visitors": 1929690,
+    "State": "Odisha"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "domestic",
+    "rank": 5,
+    "name": "Charminar",
+    "visitors": 1509556,
+    "State": "Telengana"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "domestic",
+    "rank": 6,
+    "name": "Agra Fort",
+    "visitors": 1417641,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "domestic",
+    "rank": 7,
+    "name": "Golconda Fort",
+    "visitors": 1373170,
+    "State": "Telengana"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "domestic",
+    "rank": 8,
+    "name": "Ellora Caves",
+    "visitors": 1187432,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "domestic",
+    "rank": 9,
+    "name": "Bibi Ka Maqbara",
+    "visitors": 1100088,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "domestic",
+    "rank": 10,
+    "name": "Gol Gumbaz",
+    "visitors": 111341,
+    "State": "Karnataka"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "foreign",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 621183,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "foreign",
+    "rank": 2,
+    "name": "Qutub Minar",
+    "visitors": 381479,
+    "State": "Delhi"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "foreign",
+    "rank": 3,
+    "name": "Red Fort",
+    "visitors": 288180,
+    "State": "Delhi"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "foreign",
+    "rank": 4,
+    "name": "Sun Temple",
+    "visitors": 228914,
+    "State": "Odisha"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "foreign",
+    "rank": 5,
+    "name": "Charminar",
+    "visitors": 210450,
+    "State": "Telengana"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "foreign",
+    "rank": 6,
+    "name": "Agra Fort",
+    "visitors": 181078,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "foreign",
+    "rank": 7,
+    "name": "Golconda Fort",
+    "visitors": 142029,
+    "State": "Telengana"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "foreign",
+    "rank": 8,
+    "name": "Ellora Caves",
+    "visitors": 128753,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "foreign",
+    "rank": 9,
+    "name": "Bibi Ka Maqbara",
+    "visitors": 90721,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2010,
+    "visitors_type": "foreign",
+    "rank": 10,
+    "name": "Gol Gumbaz",
+    "visitors": 69758,
+    "State": "Karnataka"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "domestic",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 4646203,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "domestic",
+    "rank": 2,
+    "name": "Qutub Minar",
+    "visitors": 2980415,
+    "State": "Delhi"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "domestic",
+    "rank": 3,
+    "name": "Red Fort",
+    "visitors": 2615976,
+    "State": "Delhi"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "domestic",
+    "rank": 4,
+    "name": "Sun Temple, Konark",
+    "visitors": 2225087,
+    "State": "Odisha"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "domestic",
+    "rank": 5,
+    "name": "Agra Fort",
+    "visitors": 1605432,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "domestic",
+    "rank": 6,
+    "name": "Golconda Fort",
+    "visitors": 1483333,
+    "State": "Telengana"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "domestic",
+    "rank": 7,
+    "name": "Charminar",
+    "visitors": 1440998,
+    "State": "Telengana"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "domestic",
+    "rank": 8,
+    "name": "Ellora Caves",
+    "visitors": 1308262,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "domestic",
+    "rank": 9,
+    "name": "Bibi Ka Maqbara",
+    "visitors": 1215998,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "domestic",
+    "rank": 10,
+    "name": "Gol Gumbaz",
+    "visitors": 1125985,
+    "State": "Karnataka"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "foreign",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 668903,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "foreign",
+    "rank": 2,
+    "name": "Qutub Minar",
+    "visitors": 331557,
+    "State": "Delhi"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "foreign",
+    "rank": 3,
+    "name": "Red Fort",
+    "visitors": 306097,
+    "State": "Delhi"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "foreign",
+    "rank": 4,
+    "name": "Sun Temple, Konark",
+    "visitors": 253967,
+    "State": "Odisha"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "foreign",
+    "rank": 5,
+    "name": "Agra Fort",
+    "visitors": 229091,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "foreign",
+    "rank": 6,
+    "name": "Golconda Fort",
+    "visitors": 160425,
+    "State": "Telengana"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "foreign",
+    "rank": 7,
+    "name": "Charminar",
+    "visitors": 130847,
+    "State": "Telengana"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "foreign",
+    "rank": 8,
+    "name": "Ellora Caves",
+    "visitors": 97356,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "foreign",
+    "rank": 9,
+    "name": "Bibi Ka Maqbara",
+    "visitors": 74187,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2011,
+    "visitors_type": "foreign",
+    "rank": 10,
+    "name": "Gol Gumbaz",
+    "visitors": 71249,
+    "State": "Karnataka"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "domestic",
+    "rank": 1.0,
+    "name": "Taj Mahal",
+    "visitors": 5281560,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "domestic",
+    "rank": 2.0,
+    "name": "Qutub Minar",
+    "visitors": 3240068,
+    "State": "Delhi"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "domestic",
+    "rank": 3.0,
+    "name": "Red Fort",
+    "visitors": 2854123,
+    "State": "Delhi"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "domestic",
+    "rank": 4.0,
+    "name": "Sun Temple, Konark",
+    "visitors": 2347441,
+    "State": "Odisha"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "domestic",
+    "rank": 5.0,
+    "name": "Agra Fort",
+    "visitors": 1713207,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "domestic",
+    "rank": 6.0,
+    "name": "Golconda Fort",
+    "visitors": 1605524,
+    "State": "Telengana"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "domestic",
+    "rank": 7.0,
+    "name": "Charminar",
+    "visitors": 1530627,
+    "State": "Telengana"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "domestic",
+    "rank": 8.0,
+    "name": "Ellora Caves",
+    "visitors": 1423480,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "domestic",
+    "rank": 9.0,
+    "name": "Bibi Ka Maqbara",
+    "visitors": 1295481,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "domestic",
+    "rank": 10.0,
+    "name": "Gol Gumbaz",
+    "visitors": 1045718,
+    "State": "Karnataka"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "foreign",
+    "rank": 1.0,
+    "name": "Taj Mahal",
+    "visitors": 743256,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "foreign",
+    "rank": 2.0,
+    "name": "Qutub Minar",
+    "visitors": 351189,
+    "State": "Delhi"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "foreign",
+    "rank": 3.0,
+    "name": "Red Fort",
+    "visitors": 330216,
+    "State": "Delhi"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "foreign",
+    "rank": 4.0,
+    "name": "Sun Temple, Konark",
+    "visitors": 263590,
+    "State": "Odisha"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "foreign",
+    "rank": 5.0,
+    "name": "Agra Fort",
+    "visitors": 206997,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "foreign",
+    "rank": 6.0,
+    "name": "Golconda Fort",
+    "visitors": 163963,
+    "State": "Telengana"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "foreign",
+    "rank": 7.0,
+    "name": "Charminar",
+    "visitors": 119780,
+    "State": "Telengana"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "foreign",
+    "rank": 8.0,
+    "name": "Ellora Caves",
+    "visitors": 97724,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "foreign",
+    "rank": 9.0,
+    "name": "Bibi Ka Maqbara",
+    "visitors": 79471,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2012,
+    "visitors_type": "foreign",
+    "rank": 10.0,
+    "name": "Gol Gumbaz",
+    "visitors": 77411,
+    "State": "Karnataka"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "domestic",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 5139640,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "domestic",
+    "rank": 2,
+    "name": "Qutub Minar",
+    "visitors": 2980710,
+    "State": "Delhi"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "domestic",
+    "rank": 3,
+    "name": "Red Fort",
+    "visitors": 2736699,
+    "State": "Delhi"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "domestic",
+    "rank": 4,
+    "name": "Sun Temple, Konark",
+    "visitors": 2334556,
+    "State": "Odisha"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "domestic",
+    "rank": 5,
+    "name": "Agra Fort",
+    "visitors": 1794737,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "domestic",
+    "rank": 6,
+    "name": "Golconda Fort",
+    "visitors": 1471232,
+    "State": "Telengana"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "domestic",
+    "rank": 7,
+    "name": "Charminar",
+    "visitors": 1397000,
+    "State": "Telengana"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "domestic",
+    "rank": 8,
+    "name": "Ellora Caves",
+    "visitors": 1336367,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "domestic",
+    "rank": 9,
+    "name": "Bibi Ka Maqbara",
+    "visitors": 1276206,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "domestic",
+    "rank": 10,
+    "name": "Gol Gumbaz",
+    "visitors": 1064265,
+    "State": "Karnataka"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "foreign",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 695702,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "foreign",
+    "rank": 2,
+    "name": "Qutub Minar",
+    "visitors": 363823,
+    "State": "Delhi"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "foreign",
+    "rank": 3,
+    "name": "Red Fort",
+    "visitors": 307043,
+    "State": "Delhi"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "foreign",
+    "rank": 4,
+    "name": "Sun Temple, Konark",
+    "visitors": 276641,
+    "State": "Odisha"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "foreign",
+    "rank": 5,
+    "name": "Agra Fort",
+    "visitors": 255129,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "foreign",
+    "rank": 6,
+    "name": "Golconda Fort",
+    "visitors": 141498,
+    "State": "Telengana"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "foreign",
+    "rank": 7,
+    "name": "Charminar",
+    "visitors": 104717,
+    "State": "Telengana"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "foreign",
+    "rank": 8,
+    "name": "Ellora Caves",
+    "visitors": 89511,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "foreign",
+    "rank": 9,
+    "name": "Bibi Ka Maqbara",
+    "visitors": 85991,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2013,
+    "visitors_type": "foreign",
+    "rank": 10,
+    "name": "Gol Gumbaz",
+    "visitors": 70840,
+    "State": "Karnataka"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "domestic",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 5423990,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "domestic",
+    "rank": 2,
+    "name": "Qutub Minar",
+    "visitors": 3129540,
+    "State": "Delhi"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "domestic",
+    "rank": 3,
+    "name": "Red Fort",
+    "visitors": 2912960,
+    "State": "Delhi"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "domestic",
+    "rank": 4,
+    "name": "Sun Temple, Konark",
+    "visitors": 2380698,
+    "State": "Odisha"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "domestic",
+    "rank": 5,
+    "name": "Agra Fort",
+    "visitors": 1880931,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "domestic",
+    "rank": 6,
+    "name": "Golconda Fort",
+    "visitors": 1623385,
+    "State": "Telengana"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "domestic",
+    "rank": 7,
+    "name": "Charminar",
+    "visitors": 1552154,
+    "State": "Telengana"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "domestic",
+    "rank": 8,
+    "name": "Bibi Ka Maqbara",
+    "visitors": 1357443,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "domestic",
+    "rank": 9,
+    "name": "Ellora Caves",
+    "visitors": 1353087,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "domestic",
+    "rank": 10,
+    "name": "Gol Gumbaz",
+    "visitors": 1083474,
+    "State": "Karnataka"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "foreign",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 648511,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "foreign",
+    "rank": 2,
+    "name": "Qutub Minar",
+    "visitors": 343483,
+    "State": "Delhi"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "foreign",
+    "rank": 3,
+    "name": "Red Fort",
+    "visitors": 276043,
+    "State": "Delhi"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "foreign",
+    "rank": 4,
+    "name": "Sun Temple, Konark",
+    "visitors": 256421,
+    "State": "Odisha"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "foreign",
+    "rank": 5,
+    "name": "Agra Fort",
+    "visitors": 231099,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "foreign",
+    "rank": 6,
+    "name": "Golconda Fort",
+    "visitors": 122477,
+    "State": "Telengana"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "foreign",
+    "rank": 7,
+    "name": "Charminar",
+    "visitors": 88173,
+    "State": "Telengana"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "foreign",
+    "rank": 8,
+    "name": "Bibi Ka Maqbara",
+    "visitors": 78528,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "foreign",
+    "rank": 9,
+    "name": "Ellora Caves",
+    "visitors": 74706,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2014,
+    "visitors_type": "foreign",
+    "rank": 10,
+    "name": "Gol Gumbaz",
+    "visitors": 66186,
+    "State": "Karnataka"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "domestic",
+    "rank": 1,
+    "name": "Agra Fort",
+    "visitors": 4713250,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "domestic",
+    "rank": 2,
+    "name": "Taj Mahal",
+    "visitors": 4146313,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "domestic",
+    "rank": 3,
+    "name": "Qutub Minar",
+    "visitors": 3316095,
+    "State": "Delhi"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "domestic",
+    "rank": 4,
+    "name": "Red Fort",
+    "visitors": 2930107,
+    "State": "Delhi"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "domestic",
+    "rank": 5,
+    "name": "Sun Temple, Konark",
+    "visitors": 2709046,
+    "State": "Odisha"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "domestic",
+    "rank": 6,
+    "name": "Purana Qila, Delhi",
+    "visitors": 2010517,
+    "State": "Delhi"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "domestic",
+    "rank": 7,
+    "name": "Golconda Fort",
+    "visitors": 1646609,
+    "State": "Telengana"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "domestic",
+    "rank": 8,
+    "name": "Charminar",
+    "visitors": 1531833,
+    "State": "Telengana"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "domestic",
+    "rank": 9,
+    "name": "Ellora Caves",
+    "visitors": 1469348,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "domestic",
+    "rank": 10,
+    "name": "Bibi Ka Maqbara",
+    "visitors": 1396968,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "foreign",
+    "rank": 1,
+    "name": "Agra Fort",
+    "visitors": 480008,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "foreign",
+    "rank": 2,
+    "name": "Taj Mahal",
+    "visitors": 343776,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "foreign",
+    "rank": 3,
+    "name": "Qutub Minar",
+    "visitors": 297840,
+    "State": "Delhi"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "foreign",
+    "rank": 4,
+    "name": "Red Fort",
+    "visitors": 229374,
+    "State": "Delhi"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "foreign",
+    "rank": 5,
+    "name": "Sun Temple, Konark",
+    "visitors": 203501,
+    "State": "Odisha"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "foreign",
+    "rank": 6,
+    "name": "Purana Qila, Delhi",
+    "visitors": 127426,
+    "State": "Delhi"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "foreign",
+    "rank": 7,
+    "name": "Golconda Fort",
+    "visitors": 112564,
+    "State": "Telengana"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "foreign",
+    "rank": 8,
+    "name": "Charminar",
+    "visitors": 89496,
+    "State": "Telengana"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "foreign",
+    "rank": 9,
+    "name": "Ellora Caves",
+    "visitors": 68244,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2015,
+    "visitors_type": "foreign",
+    "rank": 10,
+    "name": "Bibi Ka Maqbara",
+    "visitors": 66258,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "domestic",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 4097897,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "domestic",
+    "rank": 2,
+    "name": "Qutub Minar",
+    "visitors": 2217955,
+    "State": "Delhi"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "domestic",
+    "rank": 3,
+    "name": "Red Fort",
+    "visitors": 2184613,
+    "State": "Delhi"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "domestic",
+    "rank": 4,
+    "name": "Agra Fort",
+    "visitors": 1838440,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "domestic",
+    "rank": 5,
+    "name": "Golconda Fort",
+    "visitors": 1565886,
+    "State": "Telengana"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "domestic",
+    "rank": 6,
+    "name": "Sun Temple, Konark",
+    "visitors": 1552729,
+    "State": "Odisha"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "domestic",
+    "rank": 7,
+    "name": "Charminar",
+    "visitors": 1320511,
+    "State": "Telengana"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "domestic",
+    "rank": 8,
+    "name": "Bibi Ka Maqbara",
+    "visitors": 1301278,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "domestic",
+    "rank": 9,
+    "name": "Ellora Caves",
+    "visitors": 1279272,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "domestic",
+    "rank": 10,
+    "name": "Shaniwarwada",
+    "visitors": 1269530,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "foreign",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 395760,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "foreign",
+    "rank": 2,
+    "name": "Qutub Minar",
+    "visitors": 339667,
+    "State": "Delhi"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "foreign",
+    "rank": 3,
+    "name": "Red Fort",
+    "visitors": 334435,
+    "State": "Delhi"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "foreign",
+    "rank": 4,
+    "name": "Agra Fort",
+    "visitors": 147667,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "foreign",
+    "rank": 5,
+    "name": "Golconda Fort",
+    "visitors": 144070,
+    "State": "Telengana"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "foreign",
+    "rank": 6,
+    "name": "Sun Temple, Konark",
+    "visitors": 132216,
+    "State": "Odisha"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "foreign",
+    "rank": 7,
+    "name": "Charminar",
+    "visitors": 88282,
+    "State": "Telengana"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "foreign",
+    "rank": 8,
+    "name": "Bibi Ka Maqbara",
+    "visitors": 77634,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "foreign",
+    "rank": 9,
+    "name": "Ellora Caves",
+    "visitors": 75771,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2016,
+    "visitors_type": "foreign",
+    "rank": 10,
+    "name": "Shaniwarwada",
+    "visitors": 64260,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "domestic",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 5663136,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "domestic",
+    "rank": 2,
+    "name": "Sun Temple, Konark",
+    "visitors": 3221190,
+    "State": "Odisha"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "domestic",
+    "rank": 3,
+    "name": "Red Fort",
+    "visitors": 3039612,
+    "State": "Delhi"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "domestic",
+    "rank": 4,
+    "name": "Qutub Minar",
+    "visitors": 2618532,
+    "State": "Delhi"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "domestic",
+    "rank": 5,
+    "name": "Agra Fort",
+    "visitors": 2008208,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "domestic",
+    "rank": 6,
+    "name": "Bibi Ka Maqbara",
+    "visitors": 1773100,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "domestic",
+    "rank": 7,
+    "name": "Charminar",
+    "visitors": 1760180,
+    "State": "Telengana"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "domestic",
+    "rank": 8,
+    "name": "Golconda Fort",
+    "visitors": 1718747,
+    "State": "Telengana"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "domestic",
+    "rank": 9,
+    "name": "Ellora Caves",
+    "visitors": 1645484,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "domestic",
+    "rank": 10,
+    "name": "Shaniwarwada",
+    "visitors": 1413266,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "foreign",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 794556,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "foreign",
+    "rank": 2,
+    "name": "Sun Temple, Konark",
+    "visitors": 489822,
+    "State": "Odisha"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "foreign",
+    "rank": 3,
+    "name": "Red Fort",
+    "visitors": 304833,
+    "State": "Delhi"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "foreign",
+    "rank": 4,
+    "name": "Qutub Minar",
+    "visitors": 301181,
+    "State": "Delhi"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "foreign",
+    "rank": 5,
+    "name": "Agra Fort",
+    "visitors": 233385,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "foreign",
+    "rank": 6,
+    "name": "Bibi Ka Maqbara",
+    "visitors": 206218,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "foreign",
+    "rank": 7,
+    "name": "Charminar",
+    "visitors": 140200,
+    "State": "Telengana"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "foreign",
+    "rank": 8,
+    "name": "Golconda Fort",
+    "visitors": 121341,
+    "State": "Telengana"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "foreign",
+    "rank": 9,
+    "name": "Ellora Caves",
+    "visitors": 96279,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2017,
+    "visitors_type": "foreign",
+    "rank": 10,
+    "name": "Shaniwarwada",
+    "visitors": 84647,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "domestic",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 5653589,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "domestic",
+    "rank": 2,
+    "name": "Red Fort",
+    "visitors": 3430264,
+    "State": "Delhi"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "domestic",
+    "rank": 3,
+    "name": "Qutub Minar",
+    "visitors": 2645070,
+    "State": "Delhi"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "domestic",
+    "rank": 4,
+    "name": "Sun Temple",
+    "visitors": 2461359,
+    "State": "Odisha"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "domestic",
+    "rank": 5,
+    "name": "Agra Fort",
+    "visitors": 1970202,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "domestic",
+    "rank": 6,
+    "name": "Charminar",
+    "visitors": 1249039,
+    "State": "Telengana"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "domestic",
+    "rank": 7,
+    "name": "Shanirwada",
+    "visitors": 1247322,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "domestic",
+    "rank": 8,
+    "name": "Bibi ka Maqbara",
+    "visitors": 1206687,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "domestic",
+    "rank": 9,
+    "name": "Group of Monument, Mamallapuram",
+    "visitors": 1044091,
+    "State": "Tamil Nadu"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "domestic",
+    "rank": 10,
+    "name": "Gol Gumbaz",
+    "visitors": 93917,
+    "State": "Karnataka"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "foreign",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 878777,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "foreign",
+    "rank": 2,
+    "name": "Red Fort",
+    "visitors": 527534,
+    "State": "Delhi"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "foreign",
+    "rank": 3,
+    "name": "Qutub Minar",
+    "visitors": 334869,
+    "State": "Delhi"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "foreign",
+    "rank": 4,
+    "name": "Sun Temple",
+    "visitors": 126093,
+    "State": "Odisha"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "foreign",
+    "rank": 5,
+    "name": "Agra fort",
+    "visitors": 57754,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "foreign",
+    "rank": 6,
+    "name": "Charminar",
+    "visitors": 12145,
+    "State": "Telengana"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "foreign",
+    "rank": 7,
+    "name": "Shanirwada",
+    "visitors": 9883,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "foreign",
+    "rank": 8,
+    "name": "Bibi ka Maqbara",
+    "visitors": 8947,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "foreign",
+    "rank": 9,
+    "name": "Group of Monument, Mamallapuram",
+    "visitors": 5490,
+    "State": "Tamil Nadu"
+  },
+  {
+    "year": 2018,
+    "visitors_type": "foreign",
+    "rank": 10,
+    "name": "Gol Gumbaz",
+    "visitors": 2133,
+    "State": "Karnataka"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "domestic",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 4429710,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "domestic",
+    "rank": 2,
+    "name": "Red Fort",
+    "visitors": 2200044,
+    "State": "Delhi"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "domestic",
+    "rank": 3,
+    "name": "Qutub Minar",
+    "visitors": 2048146,
+    "State": "Delhi"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "domestic",
+    "rank": 4,
+    "name": "Sun Temple",
+    "visitors": 1997427,
+    "State": "Odisha"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "domestic",
+    "rank": 5,
+    "name": "Golconda Fort",
+    "visitors": 1630419,
+    "State": "Telengana"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "domestic",
+    "rank": 6,
+    "name": "Agra Fort",
+    "visitors": 1627154,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "domestic",
+    "rank": 7,
+    "name": "Group of Monument, Mamallapuram",
+    "visitors": 1260358,
+    "State": "Tamil Nadu"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "domestic",
+    "rank": 8,
+    "name": "Ellora caves",
+    "visitors": 1259261,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "domestic",
+    "rank": 9,
+    "name": "Charminar",
+    "visitors": 1151933,
+    "State": "Telengana"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "domestic",
+    "rank": 10,
+    "name": "Shanirwada",
+    "visitors": 1128072,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "foreign",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 645415,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "foreign",
+    "rank": 2,
+    "name": "Red Fort",
+    "visitors": 386522,
+    "State": "Delhi"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "foreign",
+    "rank": 3,
+    "name": "Qutub Minar",
+    "visitors": 255318,
+    "State": "Delhi"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "foreign",
+    "rank": 4,
+    "name": "Sun Temple",
+    "visitors": 202288,
+    "State": "Odisha"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "foreign",
+    "rank": 5,
+    "name": "Golconda Fort",
+    "visitors": 184751,
+    "State": "Telengana"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "foreign",
+    "rank": 6,
+    "name": "Agra Fort",
+    "visitors": 100590,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "foreign",
+    "rank": 7,
+    "name": "Group of Monument, Mamallapuram",
+    "visitors": 91364,
+    "State": "Tamil Nadu"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "foreign",
+    "rank": 8,
+    "name": "Ellora caves",
+    "visitors": 85732,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "foreign",
+    "rank": 9,
+    "name": "Charminar",
+    "visitors": 82692,
+    "State": "Telengana"
+  },
+  {
+    "year": 2019,
+    "visitors_type": "foreign",
+    "rank": 10,
+    "name": "Shanirwada",
+    "visitors": 79355,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "domestic",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 1259892,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "domestic",
+    "rank": 2,
+    "name": "Group of Monument, Mamallapuram",
+    "visitors": 808145,
+    "State": "Tamil Nadu"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "domestic",
+    "rank": 3,
+    "name": "Sun Temple",
+    "visitors": 530886,
+    "State": "Odisha"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "domestic",
+    "rank": 4,
+    "name": "Golconda Fort",
+    "visitors": 527096,
+    "State": "Telengana"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "domestic",
+    "rank": 5,
+    "name": "Qutub Minar",
+    "visitors": 476063,
+    "State": "Delhi"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "domestic",
+    "rank": 6,
+    "name": "Upper Fort Aguada",
+    "visitors": 379726,
+    "State": "Goa"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "domestic",
+    "rank": 7,
+    "name": "Agra Fort",
+    "visitors": 371242,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "domestic",
+    "rank": 8,
+    "name": "Hazarduari Palace",
+    "visitors": 361546,
+    "State": "West Bengal"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "domestic",
+    "rank": 9,
+    "name": "Charminar",
+    "visitors": 297548,
+    "State": "Telengana"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "domestic",
+    "rank": 10,
+    "name": "Gol Gumbaz",
+    "visitors": 283256,
+    "State": "Karnataka"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "foreign",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 105816,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "foreign",
+    "rank": 2,
+    "name": "Group of Monument, Mamallapuram",
+    "visitors": 95133,
+    "State": "Tamil Nadu"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "foreign",
+    "rank": 3,
+    "name": "Sun Temple",
+    "visitors": 49213,
+    "State": "Odisha"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "foreign",
+    "rank": 4,
+    "name": "Golconda Fort",
+    "visitors": 44746,
+    "State": "Telengana"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "foreign",
+    "rank": 5,
+    "name": "Qutub Minar",
+    "visitors": 29145,
+    "State": "Delhi"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "foreign",
+    "rank": 6,
+    "name": "Upper Fort Aguada",
+    "visitors": 27583,
+    "State": "Goa"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "foreign",
+    "rank": 7,
+    "name": "Agra Fort",
+    "visitors": 25876,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "foreign",
+    "rank": 8,
+    "name": "Hazarduari Palace",
+    "visitors": 9034,
+    "State": "West Bengal"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "foreign",
+    "rank": 9,
+    "name": "Charminar",
+    "visitors": 2849,
+    "State": "Telengana"
+  },
+  {
+    "year": 2020,
+    "visitors_type": "foreign",
+    "rank": 10,
+    "name": "Gol Gumbaz",
+    "visitors": 2810,
+    "State": "Karnataka"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "domestic",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 3294611,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "domestic",
+    "rank": 2,
+    "name": "Red Fort",
+    "visitors": 1323501,
+    "State": "Delhi"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "domestic",
+    "rank": 3,
+    "name": "Qutub Minar",
+    "visitors": 1157664,
+    "State": "Delhi"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "domestic",
+    "rank": 4,
+    "name": "Group of Monument, Mamallapuram",
+    "visitors": 1142150,
+    "State": "Tamil Nadu"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "domestic",
+    "rank": 5,
+    "name": "Agra Fort",
+    "visitors": 1027462,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "domestic",
+    "rank": 6,
+    "name": "Golconda Fort",
+    "visitors": 946972,
+    "State": "Telengana"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "domestic",
+    "rank": 7,
+    "name": "Sun Temple",
+    "visitors": 672891,
+    "State": "Odisha"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "domestic",
+    "rank": 8,
+    "name": "Upper Fort Aguada",
+    "visitors": 656756,
+    "State": "Goa"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "domestic",
+    "rank": 9,
+    "name": "Chittorgarh Fort",
+    "visitors": 590389,
+    "State": "Rajasthan"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "domestic",
+    "rank": 10,
+    "name": "Shaniwarwada",
+    "visitors": 516448,
+    "State": "Maharashtra"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "foreign",
+    "rank": 1,
+    "name": "Taj Mahal",
+    "visitors": 144984,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "foreign",
+    "rank": 2,
+    "name": "Red Fort",
+    "visitors": 38922,
+    "State": "Delhi"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "foreign",
+    "rank": 3,
+    "name": "Qutub Minar",
+    "visitors": 25579,
+    "State": "Delhi"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "foreign",
+    "rank": 4,
+    "name": "Group of Monument, Mamallapuram",
+    "visitors": 13598,
+    "State": "Tamil Nadu"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "foreign",
+    "rank": 5,
+    "name": "Agra Fort",
+    "visitors": 10483,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "foreign",
+    "rank": 6,
+    "name": "Golconda Fort",
+    "visitors": 9174,
+    "State": "Telengana"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "foreign",
+    "rank": 7,
+    "name": "Sun Temple",
+    "visitors": 8456,
+    "State": "Odisha"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "foreign",
+    "rank": 8,
+    "name": "Upper Fort Aguada",
+    "visitors": 8422,
+    "State": "Goa"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "foreign",
+    "rank": 9,
+    "name": "Chittorgarh Fort",
+    "visitors": 5579,
+    "State": "Rajasthan"
+  },
+  {
+    "year": 2021,
+    "visitors_type": "foreign",
+    "rank": 10,
+    "name": "Shaniwarwada",
+    "visitors": 5432,
+    "State": "Maharashtra"
+  }
+]

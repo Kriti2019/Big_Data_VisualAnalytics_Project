@@ -1,0 +1,982 @@
+[
+    {
+        "city": "Agra Circle",
+        "monument": "Taj Mahal",
+        "domestic": 4087968,
+        "foreign": 621183,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra Circle",
+        "monument": "Agra Fort",
+        "domestic": 1417641,
+        "foreign": 381479,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra Circle",
+        "monument": "Fatehpur Sikri",
+        "domestic": 315420,
+        "foreign": 210450,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra Circle",
+        "monument": "Akbar's Tomb, Sikandra Agra",
+        "domestic": 409368,
+        "foreign": 52600,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra Circle",
+        "monument": "Mariam's Tomb, Agra",
+        "domestic": 18056,
+        "foreign": 236,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra Circle",
+        "monument": "Itimad-ud-Daula, Agra",
+        "domestic": 79208,
+        "foreign": 55920,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra Circle",
+        "monument": "Ram Bagh, Agra",
+        "domestic": 31689,
+        "foreign": 322,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra Circle",
+        "monument": "Mehtab Bagh, Agra",
+        "domestic": 59075,
+        "foreign": 10890,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra Circle",
+        "monument": "Total",
+        "domestic": 6418425,
+        "foreign": 1333080,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Aurangabad Circle",
+        "monument": "Ajanta Caves",
+        "domestic": 389572,
+        "foreign": 28192,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Aurangabad Circle",
+        "monument": "Ellora Caves",
+        "domestic": 1187432,
+        "foreign": 32540,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Aurangabad Circle",
+        "monument": "Pandavlena Caves,\nPathardi",
+        "domestic": 138531,
+        "foreign": 10340,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Aurangabad Circle",
+        "monument": "Daulatabad Fort",
+        "domestic": 0,
+        "foreign": 0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Aurangabad Circle",
+        "monument": "Bibi-Ka-Maqbara,\nAurangabad",
+        "domestic": 1100088,
+        "foreign": 14619,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Aurangabad Circle",
+        "monument": "Aurangabad Caves",
+        "domestic": 45369,
+        "foreign": 2157,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Aurangabad Circle",
+        "monument": "Total",
+        "domestic": 3411415,
+        "foreign": 87402,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai Circle",
+        "monument": "Elephanta caves,\nGharapuri, Mumbai",
+        "domestic": 304185,
+        "foreign": 25718,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai Circle",
+        "monument": "Kanheri Caves,\nMumbai (Suburban)",
+        "domestic": 154717,
+        "foreign": 3956,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai Circle",
+        "monument": "Karla Caves, Karla",
+        "domestic": 202703,
+        "foreign": 3145,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai Circle",
+        "monument": "Caves, Temple &\nInscriptions, Junnar",
+        "domestic": 397176,
+        "foreign": 70,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai Circle",
+        "monument": "Raigad Fort",
+        "domestic": 186928,
+        "foreign": 166,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai Circle",
+        "monument": "Shaniwarwada, Pune",
+        "domestic": 527212,
+        "foreign": 5541,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai Circle",
+        "monument": "Hirakota Old Fort,\nAlibagh",
+        "domestic": 44908,
+        "foreign": 1122,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai Circle",
+        "monument": "Old Fort Sholapur",
+        "domestic": 186928,
+        "foreign": 166,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai Circle",
+        "monument": "Caves, Temples &\nInscription, Bhaja",
+        "domestic": 44908,
+        "foreign": 1122,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai Circle",
+        "monument": "Aga Khan Palace, Pune",
+        "domestic": 96851,
+        "foreign": 8505,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai Circle",
+        "monument": "Total",
+        "domestic": 2145516,
+        "foreign": 49511,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Bangalore Circle",
+        "monument": "Group of Monuments,\nHampi, Distt. Bellary",
+        "domestic": 475123,
+        "foreign": 34433,
+        "state": "Unknown"
+    },
+    {
+        "city": "Bangalore Circle",
+        "monument": "Daria Daaulat Bagh,\nSrirangapatnam",
+        "domestic": 873099,
+        "foreign": 25937,
+        "state": "Unknown"
+    },
+    {
+        "city": "Bangalore Circle",
+        "monument": "Keshva Temple,\nSomnathpura",
+        "domestic": 180920,
+        "foreign": 181078,
+        "state": "Unknown"
+    },
+    {
+        "city": "Bangalore Circle",
+        "monument": "Tipu Sultan Palace,\nBangalore",
+        "domestic": 132197,
+        "foreign": 6211,
+        "state": "Unknown"
+    },
+    {
+        "city": "Bangalore Circle",
+        "monument": "Chitradurga Fort,\nChitradurga",
+        "domestic": 325539,
+        "foreign": 560,
+        "state": "Unknown"
+    },
+    {
+        "city": "Bangalore Circle",
+        "monument": "Bellary Fort, Bellary",
+        "domestic": 6140,
+        "foreign": 20,
+        "state": "Unknown"
+    },
+    {
+        "city": "Bangalore Circle",
+        "monument": "Vihal Temple\nVenkatatapuram",
+        "domestic": "-",
+        "foreign": "-",
+        "state": "Unknown"
+    },
+    {
+        "city": "Bangalore Circle",
+        "monument": "Zanana Enclosure,\nKamalapur",
+        "domestic": "-",
+        "foreign": "-",
+        "state": "Unknown"
+    },
+    {
+        "city": "Bangalore Circle",
+        "monument": "Total",
+        "domestic": 1993018,
+        "foreign": 248239,
+        "state": "Unknown"
+    },
+    {
+        "city": "Bhopal Circle",
+        "monument": "Western Group of\nTemples, Khajuraho",
+        "domestic": 234950,
+        "foreign": 90721,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Bhopal Circle",
+        "monument": "Shahi Quila at Burhanpur",
+        "domestic": 51791,
+        "foreign": 197,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Bagh Caves, Bagh",
+        "monument": "Royal Complex,Mandu",
+        "domestic": 274772,
+        "foreign": 2556,
+        "state": "Unknown"
+    },
+    {
+        "city": "Bagh Caves, Bagh",
+        "monument": "Rani Roopmati\nPavilion, Mandu",
+        "domestic": 306805,
+        "foreign": 2146,
+        "state": "Unknown"
+    },
+    {
+        "city": "Bagh Caves, Bagh",
+        "monument": "Hoshang Shah's Tomb\nMandu",
+        "domestic": 172135,
+        "foreign": 2269,
+        "state": "Unknown"
+    },
+    {
+        "city": "Bagh Caves, Bagh",
+        "monument": "Bhojshala Dhar\nMoula Mosque",
+        "domestic": 14645,
+        "foreign": 0,
+        "state": "Unknown"
+    },
+    {
+        "city": "Bagh Caves, Bagh",
+        "monument": "Buddhist Monumnets\nat Sanchi",
+        "domestic": 196211,
+        "foreign": 6775,
+        "state": "Unknown"
+    },
+    {
+        "city": "Bagh Caves, Bagh",
+        "monument": "Gwalior Fort, Gwalior",
+        "domestic": 219740,
+        "foreign": 14423,
+        "state": "Unknown"
+    },
+    {
+        "city": "Bagh Caves, Bagh",
+        "monument": "Total",
+        "domestic": 1494141,
+        "foreign": 119110,
+        "state": "Unknown"
+    },
+    {
+        "city": "Bhubaneswar Circle",
+        "monument": "Sun Temple, Konark",
+        "domestic": 1929690,
+        "foreign": 7954,
+        "state": "Odisha"
+    },
+    {
+        "city": "Bhubaneswar Circle",
+        "monument": "Raja Rani Temple,\nBhubaneswar",
+        "domestic": 27312,
+        "foreign": 1769,
+        "state": "Odisha"
+    },
+    {
+        "city": "Bhubaneswar Circle",
+        "monument": "Udaigiri & Kandagiri\nCaves",
+        "domestic": 405274,
+        "foreign": 2977,
+        "state": "Odisha"
+    },
+    {
+        "city": "Bhubaneswar Circle",
+        "monument": "Excavated Site,\nRatnagiri",
+        "domestic": 28827,
+        "foreign": 453,
+        "state": "Odisha"
+    },
+    {
+        "city": "Bhubaneswar Circle",
+        "monument": "Excavated Site,\nLalitagiri",
+        "domestic": 12921,
+        "foreign": 285,
+        "state": "Odisha"
+    },
+    {
+        "city": "Bhubaneswar Circle",
+        "monument": "Total",
+        "domestic": 2404024,
+        "foreign": 13438,
+        "state": "Odisha"
+    },
+    {
+        "city": "Chandigarh Circle",
+        "monument": "Sheikh Chillis Tomb\nThanesar",
+        "domestic": 109208,
+        "foreign": 121,
+        "state": "Chandigarh"
+    },
+    {
+        "city": "Chandigarh Circle",
+        "monument": "Suraj Kund Monastery,\nLakarpur",
+        "domestic": 28164,
+        "foreign": 77,
+        "state": "Chandigarh"
+    },
+    {
+        "city": "Chandigarh Circle",
+        "monument": "Total",
+        "domestic": 137372,
+        "foreign": 198,
+        "state": "Chandigarh"
+    },
+    {
+        "city": "Chennai Circle",
+        "monument": "Group of Monuments,\nMamallapuram",
+        "domestic": 987576,
+        "foreign": 69758,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Chennai Circle",
+        "monument": "Rajgiri & Krishangiri\nFort, Gingee",
+        "domestic": 166620,
+        "foreign": 3517,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Chennai Circle",
+        "monument": "Fort Dindigul",
+        "domestic": 34153,
+        "foreign": 169,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Chennai Circle",
+        "monument": "Muvar Koil, Kalumbalur",
+        "domestic": 516,
+        "foreign": 39,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Chennai Circle",
+        "monument": "Rock Cut-Jain Temple,\nSittanvasal",
+        "domestic": 17930,
+        "foreign": 293,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Chennai Circle",
+        "monument": "Natural Cavern,\nEladipattanam",
+        "domestic": 14048,
+        "foreign": 100,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Chennai Circle",
+        "monument": "Fort Thirumayan",
+        "domestic": 67999,
+        "foreign": 1105,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Chennai Circle",
+        "monument": "St. George Fort,\nChennai",
+        "domestic": 0,
+        "foreign": 0,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Chennai Circle",
+        "monument": "Total",
+        "domestic": 1288842,
+        "foreign": 74981,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Delhi Circle",
+        "monument": "Jantar Mantar",
+        "domestic": 340492,
+        "foreign": 11446,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi Circle",
+        "monument": "Rahim-Khane-Khanam\nTomb Delhi",
+        "domestic": 8217,
+        "foreign": 720,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi Circle",
+        "monument": "Purana Quila",
+        "domestic": 517200,
+        "foreign": 9205,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi Circle",
+        "monument": "Sultangahri Tomb",
+        "domestic": 332,
+        "foreign": 100,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi Circle",
+        "monument": "Tughluqabad Fort",
+        "domestic": 24339,
+        "foreign": 1429,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi Circle",
+        "monument": "Kotla Feroz Shah",
+        "domestic": 46260,
+        "foreign": 527,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi Circle",
+        "monument": "Safdarjung Tomb",
+        "domestic": 52385,
+        "foreign": 7058,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi Circle",
+        "monument": "Red Fort",
+        "domestic": 2262810,
+        "foreign": 142029,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi Circle",
+        "monument": "Humayun's Tomb",
+        "domestic": 355629,
+        "foreign": 228914,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi Circle",
+        "monument": "Qutab Minar",
+        "domestic": 2498907,
+        "foreign": 288180,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi Circle",
+        "monument": "Total",
+        "domestic": 6106571,
+        "foreign": 689608,
+        "state": "Delhi"
+    },
+    {
+        "city": "Dharwad Circle",
+        "monument": "Durga Temple complex,\nAihole",
+        "domestic": 210234,
+        "foreign": 4483,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Dharwad Circle",
+        "monument": "Caves at Badami",
+        "domestic": 396943,
+        "foreign": 7093,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Dharwad Circle",
+        "monument": "Group of Monuments\nat Pattadakal",
+        "domestic": 290406,
+        "foreign": 5540,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Dharwad Circle",
+        "monument": "Gol-Gumbaz, Bijapur",
+        "domestic": 1011341,
+        "foreign": 2794,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Dharwad Circle",
+        "monument": "Ibrahim Rouza, Bijapur",
+        "domestic": 186763,
+        "foreign": 2142,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Dharwad Circle",
+        "monument": "Temple & Sculpture\nGallery, Lakkundi",
+        "domestic": 11425,
+        "foreign": 204,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Dharwad Circle",
+        "monument": "Total",
+        "domestic": 2107112,
+        "foreign": 22256,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Guwahati Circle",
+        "monument": "Ahom Raja's Palace,\nGurgaon",
+        "domestic": 47200,
+        "foreign": 107,
+        "state": "Assam"
+    },
+    {
+        "city": "Guwahati Circle",
+        "monument": "Karenghar Palace,\nJaysagar",
+        "domestic": 173609,
+        "foreign": 479,
+        "state": "Assam"
+    },
+    {
+        "city": "Guwahati Circle",
+        "monument": "Ranghar Pavillion,\nJaysagar",
+        "domestic": 70933,
+        "foreign": 421,
+        "state": "Assam"
+    },
+    {
+        "city": "Guwahati Circle",
+        "monument": "Vishudol, Joysagar",
+        "domestic": 12645,
+        "foreign": 27,
+        "state": "Assam"
+    },
+    {
+        "city": "Guwahati Circle",
+        "monument": "Group of Maidan,\nCheraideo",
+        "domestic": 36597,
+        "foreign": 18,
+        "state": "Assam"
+    },
+    {
+        "city": "Guwahati Circle",
+        "monument": "Total",
+        "domestic": 340984,
+        "foreign": 1052,
+        "state": "Assam"
+    },
+    {
+        "city": "Hyderabad Circle",
+        "monument": "Golkonda Fort,\nGolkonda",
+        "domestic": 1373170,
+        "foreign": 18637,
+        "state": "Telangana"
+    },
+    {
+        "city": "Hyderabad Circle",
+        "monument": "Charminar, Hyderabad",
+        "domestic": 1509556,
+        "foreign": 12636,
+        "state": "Telangana"
+    },
+    {
+        "city": "Hyderabad Circle",
+        "monument": "Fort, Raja & Rani\nMahal Chandragiri",
+        "domestic": 114310,
+        "foreign": 158,
+        "state": "Telangana"
+    },
+    {
+        "city": "Hyderabad Circle",
+        "monument": "Ruined Buddhist Stupa\n& Remains Amarvati",
+        "domestic": 18755,
+        "foreign": 360,
+        "state": "Telangana"
+    },
+    {
+        "city": "Hyderabad Circle",
+        "monument": "Hill of Nagarjunakonda\nwith ancient remains",
+        "domestic": 139397,
+        "foreign": 840,
+        "state": "Telangana"
+    },
+    {
+        "city": "Hyderabad Circle",
+        "monument": "Group of Buddhist\nmonuments, Guntupali",
+        "domestic": 21901,
+        "foreign": 19,
+        "state": "Telangana"
+    },
+    {
+        "city": "Hyderabad Circle",
+        "monument": "Four storeyed Rock-cut\nHindu Temple, Undavalli",
+        "domestic": 42827,
+        "foreign": 417,
+        "state": "Telangana"
+    },
+    {
+        "city": "Hyderabad Circle",
+        "monument": "Warangal Fort, Warangal",
+        "domestic": 96991,
+        "foreign": 324,
+        "state": "Telangana"
+    },
+    {
+        "city": "Hyderabad Circle",
+        "monument": "Total",
+        "domestic": 3316907,
+        "foreign": 33391,
+        "state": "Telangana"
+    },
+    {
+        "city": "Jaipur Circle",
+        "monument": "Deeg Palaces, Deeg",
+        "domestic": 40634,
+        "foreign": 1145,
+        "state": "Rajasthan"
+    },
+    {
+        "city": "Jaipur Circle",
+        "monument": "Kumbhalgarh Fort",
+        "domestic": 145540,
+        "foreign": 18726,
+        "state": "Rajasthan"
+    },
+    {
+        "city": "Jaipur Circle",
+        "monument": "Chittaurgarh Fort",
+        "domestic": 455158,
+        "foreign": 19223,
+        "state": "Rajasthan"
+    },
+    {
+        "city": "Jaipur Circle",
+        "monument": "Total",
+        "domestic": 641332,
+        "foreign": 39094,
+        "state": "Rajasthan"
+    },
+    {
+        "city": "Kolkata Circle",
+        "monument": "Kooch Bihar Palace",
+        "domestic": 402684,
+        "foreign": 48,
+        "state": "West Bengal"
+    },
+    {
+        "city": "Kolkata Circle",
+        "monument": "Hazarduari Palace\nMuseum Murshidabad",
+        "domestic": 616782,
+        "foreign": 583,
+        "state": "West Bengal"
+    },
+    {
+        "city": "Kolkata Circle",
+        "monument": "Bishnupur Group of\nTemples",
+        "domestic": 78037,
+        "foreign": 638,
+        "state": "West Bengal"
+    },
+    {
+        "city": "Kolkata Circle",
+        "monument": "Total",
+        "domestic": 1097503,
+        "foreign": 1269,
+        "state": "West Bengal"
+    },
+    {
+        "city": "Lucknow Circle",
+        "monument": "Rani Jhansi Mahal,\nJhansi",
+        "domestic": 10098,
+        "foreign": 100,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Lucknow Circle",
+        "monument": "Sahet of Shravasti\nMonument",
+        "domestic": 79729,
+        "foreign": 3621,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Lucknow Circle",
+        "monument": "Rani Jhansi Kila, Jhansi",
+        "domestic": 172156,
+        "foreign": 743,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Lucknow Circle",
+        "monument": "Residency, Lucknow",
+        "domestic": 165421,
+        "foreign": 1775,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Lucknow Circle",
+        "monument": "Total",
+        "domestic": 427404,
+        "foreign": 6239,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Patna Circle",
+        "monument": "Site of Mayuran Palace,\nKumarhar, Patna",
+        "domestic": 85659,
+        "foreign": 660,
+        "state": "Bihar"
+    },
+    {
+        "city": "Patna Circle",
+        "monument": "Ancient Remain,\nVaishali",
+        "domestic": 93752,
+        "foreign": 6346,
+        "state": "Bihar"
+    },
+    {
+        "city": "Patna Circle",
+        "monument": "Sarnath Excavated Site",
+        "domestic": 224891,
+        "foreign": 60341,
+        "state": "Bihar"
+    },
+    {
+        "city": "Patna Circle",
+        "monument": "Jaunpur Fort",
+        "domestic": 136679,
+        "foreign": 109,
+        "state": "Bihar"
+    },
+    {
+        "city": "Patna Circle",
+        "monument": "Man Singh Observatory,\nVaranasi",
+        "domestic": 5100,
+        "foreign": 422,
+        "state": "Bihar"
+    },
+    {
+        "city": "Patna Circle",
+        "monument": "Nalanda Excavated Site",
+        "domestic": 421033,
+        "foreign": 66544,
+        "state": "Bihar"
+    },
+    {
+        "city": "Patna Circle",
+        "monument": "Sasaram Shershah\nSuri Tomb",
+        "domestic": 166865,
+        "foreign": 248,
+        "state": "Bihar"
+    },
+    {
+        "city": "Patna Circle",
+        "monument": "Lord Cornwallis Tomb,\nGazipur",
+        "domestic": 15491,
+        "foreign": 4,
+        "state": "Bihar"
+    },
+    {
+        "city": "Patna Circle",
+        "monument": "Excavated Site\nVikramshila, Antichak",
+        "domestic": 36087,
+        "foreign": 304,
+        "state": "Bihar"
+    },
+    {
+        "city": "Patna Circle",
+        "monument": "Total",
+        "domestic": 1185557,
+        "foreign": 134978,
+        "state": "Bihar"
+    },
+    {
+        "city": "Raipur Circle",
+        "monument": "Laxman Temple,Sirpur",
+        "domestic": 42671,
+        "foreign": 50,
+        "state": "Chhattisgarh"
+    },
+    {
+        "city": "Raipur Circle",
+        "monument": "Total",
+        "domestic": 42671,
+        "foreign": 50,
+        "state": "Chhattisgarh"
+    },
+    {
+        "city": "Thrissur Circle",
+        "monument": "Bekal Fort Pallikkare",
+        "domestic": 263009,
+        "foreign": 497,
+        "state": "Kerala"
+    },
+    {
+        "city": "Thrissur Circle",
+        "monument": "Mattancherry Palace\nMuseum Kochi",
+        "domestic": 223004,
+        "foreign": 128753,
+        "state": "Kerala"
+    },
+    {
+        "city": "Thrissur Circle",
+        "monument": "Total",
+        "domestic": 486013,
+        "foreign": 129250,
+        "state": "Kerala"
+    },
+    {
+        "city": "Vadodra Circle",
+        "monument": "Sun Temple Modhera",
+        "domestic": 219657,
+        "foreign": 2486,
+        "state": "Gujarat"
+    },
+    {
+        "city": "Vadodra Circle",
+        "monument": "Rani-ki-Vav, Patan",
+        "domestic": 228908,
+        "foreign": 2300,
+        "state": "Gujarat"
+    },
+    {
+        "city": "Vadodra Circle",
+        "monument": "Monuments at\nChampaner",
+        "domestic": 79538,
+        "foreign": 1972,
+        "state": "Gujarat"
+    },
+    {
+        "city": "Vadodra Circle",
+        "monument": "Buddhist Caves,\nJunagadh",
+        "domestic": 51585,
+        "foreign": 817,
+        "state": "Gujarat"
+    },
+    {
+        "city": "Vadodra Circle",
+        "monument": "Ashokan Rock Edict,\nJunagadh",
+        "domestic": 39022,
+        "foreign": 491,
+        "state": "Gujarat"
+    },
+    {
+        "city": "Vadodra Circle",
+        "monument": "Baba Pyare and\nKhapra Kodiya Caves,\nJunagarh",
+        "domestic": 227,
+        "foreign": 12,
+        "state": "Gujarat"
+    },
+    {
+        "city": "Vadodra Circle",
+        "monument": "Total",
+        "domestic": 618937,
+        "foreign": 8078,
+        "state": "Gujarat"
+    },
+    {
+        "city": "Srinagar Circle",
+        "monument": "Ram Nagar Palace,\nRamnagar",
+        "domestic": 2524,
+        "foreign": 1,
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "city": "Srinagar Circle",
+        "monument": "Group of Temple,\nKiramchi",
+        "domestic": 2255,
+        "foreign": 1,
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "city": "Srinagar Circle",
+        "monument": "Avanti Swami Temple,\nAvantipura",
+        "domestic": 7848,
+        "foreign": 31,
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "city": "Srinagar Circle",
+        "monument": "Leh Palace, leh",
+        "domestic": 12415,
+        "foreign": 4769,
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "city": "Srinagar Circle",
+        "monument": "Total",
+        "domestic": 25042,
+        "foreign": 4802,
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "city": "Simla Mini Circle",
+        "monument": "Kangra Fort, Kangra",
+        "domestic": 64234,
+        "foreign": 1376,
+        "state": "Unknown"
+    },
+    {
+        "city": "Simla Mini Circle",
+        "monument": "Rock Cut Caves,\nMasoor",
+        "domestic": 17222,
+        "foreign": 773,
+        "state": "Unknown"
+    },
+    {
+        "city": "Simla Mini Circle",
+        "monument": "Total",
+        "domestic": 81456,
+        "foreign": 2149,
+        "state": "Unknown"
+    },
+    {
+        "city": "Simla Mini Circle",
+        "monument": "Grand Total",
+        "domestic": 35770242,
+        "foreign": 2998175,
+        "state": "Unknown"
+    }
+]

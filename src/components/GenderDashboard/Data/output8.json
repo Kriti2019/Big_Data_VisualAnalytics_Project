@@ -1,0 +1,4492 @@
+[
+    {
+        "Year": "2021",
+        "Continent": "North America",
+        "Country": "Canada",
+        "BusinessandProfessional": 1.1,
+        "LeisureHolidayandRecreation": 2.5,
+        "Medical": 0.3,
+        "IndianDiaspora": 72.6,
+        "Others": 23.4
+    },
+    {
+        "Year": "2021",
+        "Continent": "North America",
+        "Country": "United States of America",
+        "BusinessandProfessional": 3.3,
+        "LeisureHolidayandRecreation": 7.5,
+        "Medical": 0.5,
+        "IndianDiaspora": 60.1,
+        "Others": 28.6
+    },
+    {
+        "Year": "2021",
+        "Continent": "North America",
+        "Country": "Total",
+        "BusinessandProfessional": 3.0,
+        "LeisureHolidayandRecreation": 6.7,
+        "Medical": 0.4,
+        "IndianDiaspora": 62.0,
+        "Others": 27.8
+    },
+    {
+        "Year": "2021",
+        "Continent": "Central and South America",
+        "Country": "Argentina",
+        "BusinessandProfessional": 63.1,
+        "LeisureHolidayandRecreation": 8.3,
+        "Medical": 1.4,
+        "IndianDiaspora": 21.2,
+        "Others": 4.5
+    },
+    {
+        "Year": "2021",
+        "Continent": "Central and South America",
+        "Country": "Brazil",
+        "BusinessandProfessional": 68.9,
+        "LeisureHolidayandRecreation": 7.9,
+        "Medical": 0.4,
+        "IndianDiaspora": 11.3,
+        "Others": 9.1
+    },
+    {
+        "Year": "2021",
+        "Continent": "Central and South America",
+        "Country": "Mexico",
+        "BusinessandProfessional": 47.2,
+        "LeisureHolidayandRecreation": 15.3,
+        "Medical": 0.4,
+        "IndianDiaspora": 26.6,
+        "Others": 7.6
+    },
+    {
+        "Year": "2021",
+        "Continent": "Central and South America",
+        "Country": "Total",
+        "BusinessandProfessional": 46.5,
+        "LeisureHolidayandRecreation": 11.1,
+        "Medical": 1.9,
+        "IndianDiaspora": 23.7,
+        "Others": 14.3
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Austria",
+        "BusinessandProfessional": 25.5,
+        "LeisureHolidayandRecreation": 3.8,
+        "Medical": 0.7,
+        "IndianDiaspora": 48.1,
+        "Others": 21.4
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Belgium",
+        "BusinessandProfessional": 14.0,
+        "LeisureHolidayandRecreation": 3.8,
+        "Medical": 0.5,
+        "IndianDiaspora": 49.2,
+        "Others": 32.4
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Denmark",
+        "BusinessandProfessional": 45.6,
+        "LeisureHolidayandRecreation": 7.0,
+        "Medical": 1.4,
+        "IndianDiaspora": 32.1,
+        "Others": 12.5
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Finland",
+        "BusinessandProfessional": 23.3,
+        "LeisureHolidayandRecreation": 8.1,
+        "Medical": 1.7,
+        "IndianDiaspora": 38.0,
+        "Others": 28.2
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "France",
+        "BusinessandProfessional": 32.2,
+        "LeisureHolidayandRecreation": 7.9,
+        "Medical": 0.6,
+        "IndianDiaspora": 39.8,
+        "Others": 18.4
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Germany",
+        "BusinessandProfessional": 24.5,
+        "LeisureHolidayandRecreation": 7.5,
+        "Medical": 0.9,
+        "IndianDiaspora": 49.7,
+        "Others": 16.9
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Greece",
+        "BusinessandProfessional": 61.2,
+        "LeisureHolidayandRecreation": 6.8,
+        "Medical": 0.4,
+        "IndianDiaspora": 15.0,
+        "Others": 16.2
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Ireland",
+        "BusinessandProfessional": 5.5,
+        "LeisureHolidayandRecreation": 3.5,
+        "Medical": 0.5,
+        "IndianDiaspora": 70.7,
+        "Others": 19.6
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Italy",
+        "BusinessandProfessional": 21.6,
+        "LeisureHolidayandRecreation": 3.3,
+        "Medical": 0.5,
+        "IndianDiaspora": 61.8,
+        "Others": 12.5
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Netherlands",
+        "BusinessandProfessional": 17.6,
+        "LeisureHolidayandRecreation": 7.9,
+        "Medical": 1.2,
+        "IndianDiaspora": 49.7,
+        "Others": 23.4
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Norway",
+        "BusinessandProfessional": 11.6,
+        "LeisureHolidayandRecreation": 7.3,
+        "Medical": 1.4,
+        "IndianDiaspora": 57.0,
+        "Others": 21.2
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Portugal",
+        "BusinessandProfessional": 18.6,
+        "LeisureHolidayandRecreation": 2.2,
+        "Medical": 0.1,
+        "IndianDiaspora": 38.4,
+        "Others": 40.7
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Spain",
+        "BusinessandProfessional": 40.3,
+        "LeisureHolidayandRecreation": 5.7,
+        "Medical": 0.4,
+        "IndianDiaspora": 36.6,
+        "Others": 15.9
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Sweden",
+        "BusinessandProfessional": 13.9,
+        "LeisureHolidayandRecreation": 6.0,
+        "Medical": 1.1,
+        "IndianDiaspora": 49.9,
+        "Others": 28.9
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Switzerland",
+        "BusinessandProfessional": 20.5,
+        "LeisureHolidayandRecreation": 9.2,
+        "Medical": 4.2,
+        "IndianDiaspora": 47.7,
+        "Others": 17.0
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "United Kingdom",
+        "BusinessandProfessional": 3.6,
+        "LeisureHolidayandRecreation": 3.3,
+        "Medical": 0.4,
+        "IndianDiaspora": 59.2,
+        "Others": 33.4
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Total",
+        "BusinessandProfessional": 13.1,
+        "LeisureHolidayandRecreation": 4.4,
+        "Medical": 0.6,
+        "IndianDiaspora": 52.9,
+        "Others": 28.7
+    },
+    {
+        "Year": "2021",
+        "Continent": "Eastern Europe",
+        "Country": "Czech",
+        "BusinessandProfessional": 74.7,
+        "LeisureHolidayandRecreation": 6.2,
+        "Medical": 0.4,
+        "IndianDiaspora": 11.1,
+        "Others": 6.0
+    },
+    {
+        "Year": "2021",
+        "Continent": "Eastern Europe",
+        "Country": "Hungury",
+        "BusinessandProfessional": 49.6,
+        "LeisureHolidayandRecreation": 13.9,
+        "Medical": 1.5,
+        "IndianDiaspora": 21.9,
+        "Others": 12.2
+    },
+    {
+        "Year": "2021",
+        "Continent": "Eastern Europe",
+        "Country": "Kazakhstan",
+        "BusinessandProfessional": 9.6,
+        "LeisureHolidayandRecreation": 72.4,
+        "Medical": 9.5,
+        "IndianDiaspora": 5.0,
+        "Others": 2.0
+    },
+    {
+        "Year": "2021",
+        "Continent": "Eastern Europe",
+        "Country": "Poland",
+        "BusinessandProfessional": 61.2,
+        "LeisureHolidayandRecreation": 10.4,
+        "Medical": 0.7,
+        "IndianDiaspora": 16.0,
+        "Others": 11.2
+    },
+    {
+        "Year": "2021",
+        "Continent": "Eastern Europe",
+        "Country": "Russian Federation",
+        "BusinessandProfessional": 58.0,
+        "LeisureHolidayandRecreation": 20.5,
+        "Medical": 2.5,
+        "IndianDiaspora": 10.1,
+        "Others": 7.6
+    },
+    {
+        "Year": "2021",
+        "Continent": "Eastern Europe",
+        "Country": "Ukraine",
+        "BusinessandProfessional": 44.6,
+        "LeisureHolidayandRecreation": 13.0,
+        "Medical": 4.4,
+        "IndianDiaspora": 11.8,
+        "Others": 25.3
+    },
+    {
+        "Year": "2021",
+        "Continent": "Eastern Europe",
+        "Country": "Total",
+        "BusinessandProfessional": 45.8,
+        "LeisureHolidayandRecreation": 16.7,
+        "Medical": 17.9,
+        "IndianDiaspora": 9.7,
+        "Others": 8.4
+    },
+    {
+        "Year": "2021",
+        "Continent": "Africa",
+        "Country": "Egypt",
+        "BusinessandProfessional": 69.6,
+        "LeisureHolidayandRecreation": 4.0,
+        "Medical": 3.3,
+        "IndianDiaspora": 11.9,
+        "Others": 5.3
+    },
+    {
+        "Year": "2021",
+        "Continent": "Africa",
+        "Country": "Kenya",
+        "BusinessandProfessional": 8.2,
+        "LeisureHolidayandRecreation": 3.9,
+        "Medical": 25.6,
+        "IndianDiaspora": 23.9,
+        "Others": 36.0
+    },
+    {
+        "Year": "2021",
+        "Continent": "Africa",
+        "Country": "Mauritius",
+        "BusinessandProfessional": 2.4,
+        "LeisureHolidayandRecreation": 7.2,
+        "Medical": 52.5,
+        "IndianDiaspora": 25.3,
+        "Others": 7.6
+    },
+    {
+        "Year": "2021",
+        "Continent": "Africa",
+        "Country": "Nigeria",
+        "BusinessandProfessional": 5.7,
+        "LeisureHolidayandRecreation": 0.1,
+        "Medical": 52.8,
+        "IndianDiaspora": 8.3,
+        "Others": 2.0
+    },
+    {
+        "Year": "2021",
+        "Continent": "Africa",
+        "Country": "South Africa",
+        "BusinessandProfessional": 40.3,
+        "LeisureHolidayandRecreation": 5.0,
+        "Medical": 4.2,
+        "IndianDiaspora": 24.8,
+        "Others": 24.2
+    },
+    {
+        "Year": "2021",
+        "Continent": "Africa",
+        "Country": "Sudan",
+        "BusinessandProfessional": 18.9,
+        "LeisureHolidayandRecreation": 0.0,
+        "Medical": 57.6,
+        "IndianDiaspora": 4.6,
+        "Others": 1.2
+    },
+    {
+        "Year": "2021",
+        "Continent": "Africa",
+        "Country": "Tanzania",
+        "BusinessandProfessional": 8.2,
+        "LeisureHolidayandRecreation": 2.8,
+        "Medical": 33.9,
+        "IndianDiaspora": 15.1,
+        "Others": 16.3
+    },
+    {
+        "Year": "2021",
+        "Continent": "Africa",
+        "Country": "Total",
+        "BusinessandProfessional": 13.7,
+        "LeisureHolidayandRecreation": 2.1,
+        "Medical": 40.0,
+        "IndianDiaspora": 13.2,
+        "Others": 14.9
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "Bahrain",
+        "BusinessandProfessional": 3.0,
+        "LeisureHolidayandRecreation": 11.5,
+        "Medical": 21.4,
+        "IndianDiaspora": 42.1,
+        "Others": 21.7
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "Iraq",
+        "BusinessandProfessional": 1.7,
+        "LeisureHolidayandRecreation": 0.0,
+        "Medical": 94.7,
+        "IndianDiaspora": 1.0,
+        "Others": 0.4
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "Israel",
+        "BusinessandProfessional": 70.5,
+        "LeisureHolidayandRecreation": 12.6,
+        "Medical": 1.4,
+        "IndianDiaspora": 6.1,
+        "Others": 9.1
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "Oman",
+        "BusinessandProfessional": 1.5,
+        "LeisureHolidayandRecreation": 14.5,
+        "Medical": 74.8,
+        "IndianDiaspora": 6.3,
+        "Others": 2.6
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "Saudi Arabia",
+        "BusinessandProfessional": 32.7,
+        "LeisureHolidayandRecreation": 3.3,
+        "Medical": 13.6,
+        "IndianDiaspora": 17.6,
+        "Others": 30.6
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "Turkey",
+        "BusinessandProfessional": 75.6,
+        "LeisureHolidayandRecreation": 3.4,
+        "Medical": 4.5,
+        "IndianDiaspora": 3.5,
+        "Others": 11.9
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "United Arab Emirates",
+        "BusinessandProfessional": 5.1,
+        "LeisureHolidayandRecreation": 49.8,
+        "Medical": 18.9,
+        "IndianDiaspora": 15.7,
+        "Others": 9.9
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "Yemen",
+        "BusinessandProfessional": 6.4,
+        "LeisureHolidayandRecreation": 0.6,
+        "Medical": 74.0,
+        "IndianDiaspora": 5.0,
+        "Others": 3.4
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 14.0,
+        "LeisureHolidayandRecreation": 9.3,
+        "Medical": 61.1,
+        "IndianDiaspora": 6.9,
+        "Others": 5.1
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "Afghanistan",
+        "BusinessandProfessional": 21.9,
+        "LeisureHolidayandRecreation": 0.4,
+        "Medical": 53.6,
+        "IndianDiaspora": 13.4,
+        "Others": 0.9
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "Bangladesh",
+        "BusinessandProfessional": 9.8,
+        "LeisureHolidayandRecreation": 3.9,
+        "Medical": 77.6,
+        "IndianDiaspora": 5.0,
+        "Others": 2.0
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "Bhutan",
+        "BusinessandProfessional": 5.1,
+        "LeisureHolidayandRecreation": 23.1,
+        "Medical": 15.4,
+        "IndianDiaspora": 0.0,
+        "Others": 56.4
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "Iran",
+        "BusinessandProfessional": 33.5,
+        "LeisureHolidayandRecreation": 10.3,
+        "Medical": 1.5,
+        "IndianDiaspora": 10.7,
+        "Others": 20.9
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "Maldives",
+        "BusinessandProfessional": 3.1,
+        "LeisureHolidayandRecreation": 0.1,
+        "Medical": 85.8,
+        "IndianDiaspora": 5.8,
+        "Others": 1.2
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "Nepal",
+        "BusinessandProfessional": 1.8,
+        "LeisureHolidayandRecreation": 71.9,
+        "Medical": 0.5,
+        "IndianDiaspora": 9.7,
+        "Others": 14.3
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "Pakistan",
+        "BusinessandProfessional": 21.9,
+        "LeisureHolidayandRecreation": 0.2,
+        "Medical": 6.8,
+        "IndianDiaspora": 3.2,
+        "Others": 67.7
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "SriLanka",
+        "BusinessandProfessional": 46.2,
+        "LeisureHolidayandRecreation": 16.6,
+        "Medical": 3.4,
+        "IndianDiaspora": 13.6,
+        "Others": 12.1
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 14.0,
+        "LeisureHolidayandRecreation": 4.4,
+        "Medical": 68.4,
+        "IndianDiaspora": 6.7,
+        "Others": 3.0
+    },
+    {
+        "Year": "2021",
+        "Continent": "South East Asia",
+        "Country": "Indonesia",
+        "BusinessandProfessional": 34.6,
+        "LeisureHolidayandRecreation": 6.4,
+        "Medical": 3.6,
+        "IndianDiaspora": 22.6,
+        "Others": 25.2
+    },
+    {
+        "Year": "2021",
+        "Continent": "South East Asia",
+        "Country": "Malaysia",
+        "BusinessandProfessional": 17.7,
+        "LeisureHolidayandRecreation": 11.7,
+        "Medical": 2.6,
+        "IndianDiaspora": 21.4,
+        "Others": 34.1
+    },
+    {
+        "Year": "2021",
+        "Continent": "South East Asia",
+        "Country": "Myanmar",
+        "BusinessandProfessional": 8.0,
+        "LeisureHolidayandRecreation": 5.2,
+        "Medical": 56.7,
+        "IndianDiaspora": 5.9,
+        "Others": 7.0
+    },
+    {
+        "Year": "2021",
+        "Continent": "South East Asia",
+        "Country": "Phillippines",
+        "BusinessandProfessional": 18.5,
+        "LeisureHolidayandRecreation": 11.8,
+        "Medical": 4.6,
+        "IndianDiaspora": 18.4,
+        "Others": 46.4
+    },
+    {
+        "Year": "2021",
+        "Continent": "South East Asia",
+        "Country": "Singapore",
+        "BusinessandProfessional": 2.4,
+        "LeisureHolidayandRecreation": 6.3,
+        "Medical": 0.1,
+        "IndianDiaspora": 37.2,
+        "Others": 53.7
+    },
+    {
+        "Year": "2021",
+        "Continent": "South East Asia",
+        "Country": "Thailand",
+        "BusinessandProfessional": 57.3,
+        "LeisureHolidayandRecreation": 6.5,
+        "Medical": 0.1,
+        "IndianDiaspora": 14.0,
+        "Others": 17.9
+    },
+    {
+        "Year": "2021",
+        "Continent": "South East Asia",
+        "Country": "Vietnam",
+        "BusinessandProfessional": 26.9,
+        "LeisureHolidayandRecreation": 14.6,
+        "Medical": 0.3,
+        "IndianDiaspora": 7.8,
+        "Others": 29.4
+    },
+    {
+        "Year": "2021",
+        "Continent": "South East Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 16.6,
+        "LeisureHolidayandRecreation": 8.0,
+        "Medical": 8.1,
+        "IndianDiaspora": 24.3,
+        "Others": 37.7
+    },
+    {
+        "Year": "2021",
+        "Continent": "East Asia",
+        "Country": "China",
+        "BusinessandProfessional": 73.3,
+        "LeisureHolidayandRecreation": 0.5,
+        "Medical": 0.1,
+        "IndianDiaspora": 15.6,
+        "Others": 9.7
+    },
+    {
+        "Year": "2021",
+        "Continent": "East Asia",
+        "Country": "Japan",
+        "BusinessandProfessional": 91.4,
+        "LeisureHolidayandRecreation": 1.7,
+        "Medical": 0.1,
+        "IndianDiaspora": 3.1,
+        "Others": 3.4
+    },
+    {
+        "Year": "2021",
+        "Continent": "East Asia",
+        "Country": "Korea (Republic of)",
+        "BusinessandProfessional": 92.7,
+        "LeisureHolidayandRecreation": 1.2,
+        "Medical": 0.0,
+        "IndianDiaspora": 1.7,
+        "Others": 1.5
+    },
+    {
+        "Year": "2021",
+        "Continent": "East Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 88.1,
+        "LeisureHolidayandRecreation": 1.6,
+        "Medical": 0.4,
+        "IndianDiaspora": 4.7,
+        "Others": 3.3
+    },
+    {
+        "Year": "2021",
+        "Continent": "Australasia",
+        "Country": "Australia",
+        "BusinessandProfessional": 2.8,
+        "LeisureHolidayandRecreation": 8.9,
+        "Medical": 0.3,
+        "IndianDiaspora": 65.4,
+        "Others": 22.6
+    },
+    {
+        "Year": "2021",
+        "Continent": "Australasia",
+        "Country": "New Zealand",
+        "BusinessandProfessional": 4.9,
+        "LeisureHolidayandRecreation": 5.1,
+        "Medical": 0.2,
+        "IndianDiaspora": 62.3,
+        "Others": 27.2
+    },
+    {
+        "Year": "2021",
+        "Continent": "Australasia",
+        "Country": "Total",
+        "BusinessandProfessional": 3.1,
+        "LeisureHolidayandRecreation": 8.3,
+        "Medical": 0.9,
+        "IndianDiaspora": 64.6,
+        "Others": 22.9
+    },
+    {
+        "Year": "2021",
+        "Continent": "Australasia",
+        "Country": "Not classified elsewhere",
+        "BusinessandProfessional": 100.0,
+        "LeisureHolidayandRecreation": 0.0,
+        "Medical": 0.0,
+        "IndianDiaspora": 0.0,
+        "Others": 0.0
+    },
+    {
+        "Year": "2021",
+        "Continent": "Australasia",
+        "Country": "Grand Total",
+        "BusinessandProfessional": 12.1,
+        "LeisureHolidayandRecreation": 5.8,
+        "Medical": 21.2,
+        "IndianDiaspora": 39.2,
+        "Others": 19.7
+    },
+    {
+        "Year": "2020",
+        "Continent": "North America",
+        "Country": "Canada",
+        "BusinessandProfessional": 3.1,
+        "LeisureHolidayandRecreation": 54.4,
+        "Medical": 0.2,
+        "IndianDiaspora": 25.8,
+        "Others": 16.4
+    },
+    {
+        "Year": "2020",
+        "Continent": "North America",
+        "Country": "United States of America",
+        "BusinessandProfessional": 9.8,
+        "LeisureHolidayandRecreation": 41.2,
+        "Medical": 0.1,
+        "IndianDiaspora": 29.7,
+        "Others": 19.2
+    },
+    {
+        "Year": "2020",
+        "Continent": "North America",
+        "Country": "Total",
+        "BusinessandProfessional": 8.2,
+        "LeisureHolidayandRecreation": 44.3,
+        "Medical": 0.1,
+        "IndianDiaspora": 28.8,
+        "Others": 18.6
+    },
+    {
+        "Year": "2020",
+        "Continent": "Central And South America",
+        "Country": "Argentina",
+        "BusinessandProfessional": 7.4,
+        "LeisureHolidayandRecreation": 89.7,
+        "Medical": 0.0,
+        "IndianDiaspora": 1.5,
+        "Others": 1.4
+    },
+    {
+        "Year": "2020",
+        "Continent": "Central And South America",
+        "Country": "Brazil",
+        "BusinessandProfessional": 23.6,
+        "LeisureHolidayandRecreation": 71.2,
+        "Medical": 0.1,
+        "IndianDiaspora": 2.0,
+        "Others": 3.1
+    },
+    {
+        "Year": "2020",
+        "Continent": "Central And South America",
+        "Country": "Mexico",
+        "BusinessandProfessional": 20.4,
+        "LeisureHolidayandRecreation": 75.2,
+        "Medical": 0.1,
+        "IndianDiaspora": 2.1,
+        "Others": 2.2
+    },
+    {
+        "Year": "2020",
+        "Continent": "Central And South America",
+        "Country": "Total",
+        "BusinessandProfessional": 17.8,
+        "LeisureHolidayandRecreation": 72.6,
+        "Medical": 0.1,
+        "IndianDiaspora": 4.3,
+        "Others": 5.1
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Austria",
+        "BusinessandProfessional": 18.8,
+        "LeisureHolidayandRecreation": 55.7,
+        "Medical": 0.2,
+        "IndianDiaspora": 18.2,
+        "Others": 7.2
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Belgium",
+        "BusinessandProfessional": 20.6,
+        "LeisureHolidayandRecreation": 47.5,
+        "Medical": 0.1,
+        "IndianDiaspora": 15.0,
+        "Others": 16.8
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Denmark",
+        "BusinessandProfessional": 28.9,
+        "LeisureHolidayandRecreation": 62.3,
+        "Medical": 0.1,
+        "IndianDiaspora": 6.0,
+        "Others": 2.7
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Finland",
+        "BusinessandProfessional": 30.0,
+        "LeisureHolidayandRecreation": 54.8,
+        "Medical": 0.2,
+        "IndianDiaspora": 8.7,
+        "Others": 6.3
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "France",
+        "BusinessandProfessional": 17.2,
+        "LeisureHolidayandRecreation": 70.2,
+        "Medical": 0.1,
+        "IndianDiaspora": 7.2,
+        "Others": 5.3
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Germany",
+        "BusinessandProfessional": 24.2,
+        "LeisureHolidayandRecreation": 59.8,
+        "Medical": 0.1,
+        "IndianDiaspora": 10.7,
+        "Others": 5.2
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Greece",
+        "BusinessandProfessional": 24.7,
+        "LeisureHolidayandRecreation": 62.8,
+        "Medical": 0.1,
+        "IndianDiaspora": 6.1,
+        "Others": 6.4
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Ireland",
+        "BusinessandProfessional": 16.9,
+        "LeisureHolidayandRecreation": 46.5,
+        "Medical": 0.1,
+        "IndianDiaspora": 29.0,
+        "Others": 7.5
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Italy",
+        "BusinessandProfessional": 18.5,
+        "LeisureHolidayandRecreation": 59.3,
+        "Medical": 0.1,
+        "IndianDiaspora": 19.6,
+        "Others": 2.6
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Netherlands",
+        "BusinessandProfessional": 27.2,
+        "LeisureHolidayandRecreation": 50.4,
+        "Medical": 0.3,
+        "IndianDiaspora": 12.6,
+        "Others": 9.5
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Norway",
+        "BusinessandProfessional": 14.6,
+        "LeisureHolidayandRecreation": 52.7,
+        "Medical": 0.2,
+        "IndianDiaspora": 24.0,
+        "Others": 8.5
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Portugal",
+        "BusinessandProfessional": 9.0,
+        "LeisureHolidayandRecreation": 17.7,
+        "Medical": 0.0,
+        "IndianDiaspora": 37.3,
+        "Others": 36.0
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Spain",
+        "BusinessandProfessional": 21.4,
+        "LeisureHolidayandRecreation": 63.0,
+        "Medical": 0.0,
+        "IndianDiaspora": 8.9,
+        "Others": 6.6
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Sweden",
+        "BusinessandProfessional": 19.4,
+        "LeisureHolidayandRecreation": 60.0,
+        "Medical": 0.1,
+        "IndianDiaspora": 11.9,
+        "Others": 8.6
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Switzerland",
+        "BusinessandProfessional": 15.3,
+        "LeisureHolidayandRecreation": 68.3,
+        "Medical": 0.2,
+        "IndianDiaspora": 10.6,
+        "Others": 5.6
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "United Kingdom",
+        "BusinessandProfessional": 8.3,
+        "LeisureHolidayandRecreation": 45.8,
+        "Medical": 0.1,
+        "IndianDiaspora": 30.0,
+        "Others": 15.8
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Total",
+        "BusinessandProfessional": 14.1,
+        "LeisureHolidayandRecreation": 51.4,
+        "Medical": 0.1,
+        "IndianDiaspora": 22.0,
+        "Others": 12.4
+    },
+    {
+        "Year": "2020",
+        "Continent": "Eastern Europe",
+        "Country": "Czech Rep",
+        "BusinessandProfessional": 31.0,
+        "LeisureHolidayandRecreation": 66.3,
+        "Medical": 0.0,
+        "IndianDiaspora": 1.4,
+        "Others": 1.3
+    },
+    {
+        "Year": "2020",
+        "Continent": "Eastern Europe",
+        "Country": "Hungary",
+        "BusinessandProfessional": 20.0,
+        "LeisureHolidayandRecreation": 75.8,
+        "Medical": 0.0,
+        "IndianDiaspora": 2.1,
+        "Others": 2.0
+    },
+    {
+        "Year": "2020",
+        "Continent": "Eastern Europe",
+        "Country": "Kazakhstan",
+        "BusinessandProfessional": 4.7,
+        "LeisureHolidayandRecreation": 90.3,
+        "Medical": 1.9,
+        "IndianDiaspora": 1.2,
+        "Others": 1.9
+    },
+    {
+        "Year": "2020",
+        "Continent": "Eastern Europe",
+        "Country": "Poland",
+        "BusinessandProfessional": 17.3,
+        "LeisureHolidayandRecreation": 78.5,
+        "Medical": 0.0,
+        "IndianDiaspora": 2.3,
+        "Others": 2.0
+    },
+    {
+        "Year": "2020",
+        "Continent": "Eastern Europe",
+        "Country": "Russian Federation",
+        "BusinessandProfessional": 5.5,
+        "LeisureHolidayandRecreation": 93.0,
+        "Medical": 0.1,
+        "IndianDiaspora": 0.7,
+        "Others": 0.7
+    },
+    {
+        "Year": "2020",
+        "Continent": "Eastern Europe",
+        "Country": "Ukraine",
+        "BusinessandProfessional": 12.2,
+        "LeisureHolidayandRecreation": 80.9,
+        "Medical": 0.2,
+        "IndianDiaspora": 2.9,
+        "Others": 3.8
+    },
+    {
+        "Year": "2020",
+        "Continent": "Eastern Europe",
+        "Country": "Total",
+        "BusinessandProfessional": 9.7,
+        "LeisureHolidayandRecreation": 84.1,
+        "Medical": 3.4,
+        "IndianDiaspora": 1.3,
+        "Others": 1.4
+    },
+    {
+        "Year": "2020",
+        "Continent": "Africa",
+        "Country": "Egypt",
+        "BusinessandProfessional": 56.1,
+        "LeisureHolidayandRecreation": 30.8,
+        "Medical": 1.3,
+        "IndianDiaspora": 5.5,
+        "Others": 6.2
+    },
+    {
+        "Year": "2020",
+        "Continent": "Africa",
+        "Country": "Kenya",
+        "BusinessandProfessional": 10.6,
+        "LeisureHolidayandRecreation": 25.0,
+        "Medical": 16.0,
+        "IndianDiaspora": 15.4,
+        "Others": 33.1
+    },
+    {
+        "Year": "2020",
+        "Continent": "Africa",
+        "Country": "Mauritius",
+        "BusinessandProfessional": 2.4,
+        "LeisureHolidayandRecreation": 74.8,
+        "Medical": 9.6,
+        "IndianDiaspora": 9.0,
+        "Others": 4.2
+    },
+    {
+        "Year": "2020",
+        "Continent": "Africa",
+        "Country": "Nigeria",
+        "BusinessandProfessional": 17.0,
+        "LeisureHolidayandRecreation": 6.9,
+        "Medical": 53.1,
+        "IndianDiaspora": 7.5,
+        "Others": 15.5
+    },
+    {
+        "Year": "2020",
+        "Continent": "Africa",
+        "Country": "South Africa",
+        "BusinessandProfessional": 18.8,
+        "LeisureHolidayandRecreation": 65.9,
+        "Medical": 0.6,
+        "IndianDiaspora": 6.6,
+        "Others": 8.1
+    },
+    {
+        "Year": "2020",
+        "Continent": "Africa",
+        "Country": "Sudan",
+        "BusinessandProfessional": 56.2,
+        "LeisureHolidayandRecreation": 3.5,
+        "Medical": 30.3,
+        "IndianDiaspora": 1.8,
+        "Others": 8.2
+    },
+    {
+        "Year": "2020",
+        "Continent": "Africa",
+        "Country": "Tanzania",
+        "BusinessandProfessional": 15.4,
+        "LeisureHolidayandRecreation": 24.6,
+        "Medical": 25.2,
+        "IndianDiaspora": 9.9,
+        "Others": 24.9
+    },
+    {
+        "Year": "2020",
+        "Continent": "Africa",
+        "Country": "Total",
+        "BusinessandProfessional": 20.9,
+        "LeisureHolidayandRecreation": 35.2,
+        "Medical": 19.5,
+        "IndianDiaspora": 8.6,
+        "Others": 15.9
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "Bahrain",
+        "BusinessandProfessional": 5.8,
+        "LeisureHolidayandRecreation": 51.8,
+        "Medical": 11.1,
+        "IndianDiaspora": 19.2,
+        "Others": 12.2
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "Iraq",
+        "BusinessandProfessional": 0.9,
+        "LeisureHolidayandRecreation": 2.8,
+        "Medical": 93.4,
+        "IndianDiaspora": 0.9,
+        "Others": 1.9
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "Israel",
+        "BusinessandProfessional": 20.4,
+        "LeisureHolidayandRecreation": 76.0,
+        "Medical": 0.1,
+        "IndianDiaspora": 1.3,
+        "Others": 2.2
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "Oman",
+        "BusinessandProfessional": 1.5,
+        "LeisureHolidayandRecreation": 66.3,
+        "Medical": 28.0,
+        "IndianDiaspora": 1.9,
+        "Others": 2.1
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "Saudi Arabia",
+        "BusinessandProfessional": 7.3,
+        "LeisureHolidayandRecreation": 81.5,
+        "Medical": 5.3,
+        "IndianDiaspora": 1.9,
+        "Others": 3.9
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "Turkey",
+        "BusinessandProfessional": 50.2,
+        "LeisureHolidayandRecreation": 45.0,
+        "Medical": 1.0,
+        "IndianDiaspora": 0.7,
+        "Others": 3.1
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "United Arab Emirates",
+        "BusinessandProfessional": 2.5,
+        "LeisureHolidayandRecreation": 88.3,
+        "Medical": 2.8,
+        "IndianDiaspora": 3.1,
+        "Others": 3.4
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "Yemen",
+        "BusinessandProfessional": 6.0,
+        "LeisureHolidayandRecreation": 9.9,
+        "Medical": 69.9,
+        "IndianDiaspora": 4.2,
+        "Others": 10.1
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 11.7,
+        "LeisureHolidayandRecreation": 52.3,
+        "Medical": 29.9,
+        "IndianDiaspora": 2.3,
+        "Others": 3.7
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "Afghanistan",
+        "BusinessandProfessional": 8.8,
+        "LeisureHolidayandRecreation": 43.5,
+        "Medical": 34.0,
+        "IndianDiaspora": 6.5,
+        "Others": 7.1
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "Bangladesh",
+        "BusinessandProfessional": 4.9,
+        "LeisureHolidayandRecreation": 74.9,
+        "Medical": 18.1,
+        "IndianDiaspora": 0.9,
+        "Others": 1.3
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "Bhutan",
+        "BusinessandProfessional": 8.3,
+        "LeisureHolidayandRecreation": 45.8,
+        "Medical": 0.0,
+        "IndianDiaspora": 12.5,
+        "Others": 33.3
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "Iran",
+        "BusinessandProfessional": 13.7,
+        "LeisureHolidayandRecreation": 73.2,
+        "Medical": 0.2,
+        "IndianDiaspora": 2.3,
+        "Others": 10.6
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "Maldives",
+        "BusinessandProfessional": 4.2,
+        "LeisureHolidayandRecreation": 0.6,
+        "Medical": 76.1,
+        "IndianDiaspora": 6.9,
+        "Others": 12.3
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "Nepal",
+        "BusinessandProfessional": 3.2,
+        "LeisureHolidayandRecreation": 74.4,
+        "Medical": 1.1,
+        "IndianDiaspora": 5.0,
+        "Others": 16.4
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "Pakistan",
+        "BusinessandProfessional": 1.9,
+        "LeisureHolidayandRecreation": 54.1,
+        "Medical": 2.1,
+        "IndianDiaspora": 2.5,
+        "Others": 39.5
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "SriLanka",
+        "BusinessandProfessional": 23.8,
+        "LeisureHolidayandRecreation": 63.3,
+        "Medical": 1.2,
+        "IndianDiaspora": 2.7,
+        "Others": 9.2
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 7.1,
+        "LeisureHolidayandRecreation": 70.8,
+        "Medical": 17.5,
+        "IndianDiaspora": 1.6,
+        "Others": 3.1
+    },
+    {
+        "Year": "2020",
+        "Continent": "South East Asia",
+        "Country": "Indonesia",
+        "BusinessandProfessional": 19.9,
+        "LeisureHolidayandRecreation": 67.9,
+        "Medical": 0.6,
+        "IndianDiaspora": 3.8,
+        "Others": 7.8
+    },
+    {
+        "Year": "2020",
+        "Continent": "South East Asia",
+        "Country": "Malaysia",
+        "BusinessandProfessional": 7.5,
+        "LeisureHolidayandRecreation": 72.9,
+        "Medical": 0.1,
+        "IndianDiaspora": 10.3,
+        "Others": 9.2
+    },
+    {
+        "Year": "2020",
+        "Continent": "South East Asia",
+        "Country": "Myanmar",
+        "BusinessandProfessional": 4.5,
+        "LeisureHolidayandRecreation": 88.6,
+        "Medical": 3.6,
+        "IndianDiaspora": 1.0,
+        "Others": 2.3
+    },
+    {
+        "Year": "2020",
+        "Continent": "South East Asia",
+        "Country": "Philippines",
+        "BusinessandProfessional": 27.7,
+        "LeisureHolidayandRecreation": 46.2,
+        "Medical": 2.0,
+        "IndianDiaspora": 5.3,
+        "Others": 18.8
+    },
+    {
+        "Year": "2020",
+        "Continent": "South East Asia",
+        "Country": "Singapore",
+        "BusinessandProfessional": 12.4,
+        "LeisureHolidayandRecreation": 35.5,
+        "Medical": 0.0,
+        "IndianDiaspora": 20.0,
+        "Others": 32.0
+    },
+    {
+        "Year": "2020",
+        "Continent": "South East Asia",
+        "Country": "Thailand",
+        "BusinessandProfessional": 8.1,
+        "LeisureHolidayandRecreation": 85.5,
+        "Medical": 0.0,
+        "IndianDiaspora": 1.6,
+        "Others": 4.7
+    },
+    {
+        "Year": "2020",
+        "Continent": "South East Asia",
+        "Country": "Vietnam",
+        "BusinessandProfessional": 10.9,
+        "LeisureHolidayandRecreation": 82.1,
+        "Medical": 0.0,
+        "IndianDiaspora": 1.7,
+        "Others": 5.3
+    },
+    {
+        "Year": "2020",
+        "Continent": "South East Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 10.9,
+        "LeisureHolidayandRecreation": 82.1,
+        "Medical": 0.0,
+        "IndianDiaspora": 1.7,
+        "Others": 5.3
+    },
+    {
+        "Year": "2020",
+        "Continent": "East Asia",
+        "Country": "China",
+        "BusinessandProfessional": 32.5,
+        "LeisureHolidayandRecreation": 59.6,
+        "Medical": 0.0,
+        "IndianDiaspora": 4.8,
+        "Others": 3.0
+    },
+    {
+        "Year": "2020",
+        "Continent": "East Asia",
+        "Country": "Japan",
+        "BusinessandProfessional": 58.6,
+        "LeisureHolidayandRecreation": 38.4,
+        "Medical": 0.0,
+        "IndianDiaspora": 1.6,
+        "Others": 1.4
+    },
+    {
+        "Year": "2020",
+        "Continent": "East Asia",
+        "Country": "Korea (Republic Of)",
+        "BusinessandProfessional": 53.8,
+        "LeisureHolidayandRecreation": 42.0,
+        "Medical": 0.0,
+        "IndianDiaspora": 2.4,
+        "Others": 1.8
+    },
+    {
+        "Year": "2020",
+        "Continent": "East Asia",
+        "Country": "Republic Of China Taiwan",
+        "BusinessandProfessional": 27.6,
+        "LeisureHolidayandRecreation": 70.2,
+        "Medical": 0.0,
+        "IndianDiaspora": 1.4,
+        "Others": 0.8
+    },
+    {
+        "Year": "2020",
+        "Continent": "East Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 47.1,
+        "LeisureHolidayandRecreation": 47.8,
+        "Medical": 0.1,
+        "IndianDiaspora": 2.8,
+        "Others": 2.2
+    },
+    {
+        "Year": "2020",
+        "Continent": "Australasia",
+        "Country": "Australia",
+        "BusinessandProfessional": 5.7,
+        "LeisureHolidayandRecreation": 41.4,
+        "Medical": 0.1,
+        "IndianDiaspora": 41.3,
+        "Others": 11.5
+    },
+    {
+        "Year": "2020",
+        "Continent": "Australasia",
+        "Country": "New Zealand",
+        "BusinessandProfessional": 4.8,
+        "LeisureHolidayandRecreation": 46.9,
+        "Medical": 0.2,
+        "IndianDiaspora": 28.8,
+        "Others": 19.2
+    },
+    {
+        "Year": "2020",
+        "Continent": "Australasia",
+        "Country": "Total",
+        "BusinessandProfessional": 5.5,
+        "LeisureHolidayandRecreation": 42.5,
+        "Medical": 0.4,
+        "IndianDiaspora": 38.9,
+        "Others": 12.6
+    },
+    {
+        "Year": "2020",
+        "Continent": "Australasia",
+        "Country": "Not Classified",
+        "BusinessandProfessional": 16.8,
+        "LeisureHolidayandRecreation": 52.4,
+        "Medical": 15.2,
+        "IndianDiaspora": 5.8,
+        "Others": 9.8
+    },
+    {
+        "Year": "2020",
+        "Continent": "Elsewhere",
+        "Country": "Grand Total",
+        "BusinessandProfessional": 11.8,
+        "LeisureHolidayandRecreation": 58.4,
+        "Medical": 6.8,
+        "IndianDiaspora": 13.6,
+        "Others": 9.4
+    },
+    {
+        "Year": "2019",
+        "Continent": "North America",
+        "Country": "CANADA",
+        "BusinessandProfessional": 4.82,
+        "LeisureHolidayandRecreation": 50.94,
+        "Medical": 0.14,
+        "IndianDiaspora": 21.49,
+        "Others": 22.61
+    },
+    {
+        "Year": "2019",
+        "Continent": "North America",
+        "Country": "United States of America",
+        "BusinessandProfessional": 11.24,
+        "LeisureHolidayandRecreation": 38.56,
+        "Medical": 0.08,
+        "IndianDiaspora": 29.48,
+        "Others": 20.64
+    },
+    {
+        "Year": "2019",
+        "Continent": "North America",
+        "Country": "Total",
+        "BusinessandProfessional": 10.03,
+        "LeisureHolidayandRecreation": 40.9,
+        "Medical": 0.09,
+        "IndianDiaspora": 27.97,
+        "Others": 21.01
+    },
+    {
+        "Year": "2019",
+        "Continent": "Central & South America",
+        "Country": "ARGENTINA",
+        "BusinessandProfessional": 14.69,
+        "LeisureHolidayandRecreation": 78.6,
+        "Medical": 0.08,
+        "IndianDiaspora": 1.25,
+        "Others": 5.38
+    },
+    {
+        "Year": "2019",
+        "Continent": "Central & South America",
+        "Country": "BRAZIL",
+        "BusinessandProfessional": 29.16,
+        "LeisureHolidayandRecreation": 58.01,
+        "Medical": 0.06,
+        "IndianDiaspora": 1.8,
+        "Others": 10.96
+    },
+    {
+        "Year": "2019",
+        "Continent": "Central & South America",
+        "Country": "MEXICO",
+        "BusinessandProfessional": 18.23,
+        "LeisureHolidayandRecreation": 72.18,
+        "Medical": 0.06,
+        "IndianDiaspora": 1.67,
+        "Others": 7.86
+    },
+    {
+        "Year": "2019",
+        "Continent": "Central & South America",
+        "Country": "Total",
+        "BusinessandProfessional": 20.24,
+        "LeisureHolidayandRecreation": 64.31,
+        "Medical": 0.17,
+        "IndianDiaspora": 3.38,
+        "Others": 11.9
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "AUSTRIA",
+        "BusinessandProfessional": 22.65,
+        "LeisureHolidayandRecreation": 47.92,
+        "Medical": 0.09,
+        "IndianDiaspora": 16.83,
+        "Others": 12.51
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "BELGIUM",
+        "BusinessandProfessional": 24.23,
+        "LeisureHolidayandRecreation": 45.56,
+        "Medical": 0.13,
+        "IndianDiaspora": 10.76,
+        "Others": 19.32
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "DENMARK",
+        "BusinessandProfessional": 37.05,
+        "LeisureHolidayandRecreation": 51.21,
+        "Medical": 0.11,
+        "IndianDiaspora": 6.28,
+        "Others": 5.34
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "FINLAND",
+        "BusinessandProfessional": 31.88,
+        "LeisureHolidayandRecreation": 42.52,
+        "Medical": 0.13,
+        "IndianDiaspora": 6.22,
+        "Others": 19.25
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "FRANCE",
+        "BusinessandProfessional": 20.99,
+        "LeisureHolidayandRecreation": 58.12,
+        "Medical": 0.11,
+        "IndianDiaspora": 7.58,
+        "Others": 13.2
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "GERMANY",
+        "BusinessandProfessional": 27.01,
+        "LeisureHolidayandRecreation": 47.87,
+        "Medical": 0.07,
+        "IndianDiaspora": 8.65,
+        "Others": 16.4
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "GREECE",
+        "BusinessandProfessional": 21.08,
+        "LeisureHolidayandRecreation": 48.82,
+        "Medical": 0.05,
+        "IndianDiaspora": 5.41,
+        "Others": 24.64
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "IRELAND",
+        "BusinessandProfessional": 19.55,
+        "LeisureHolidayandRecreation": 35.01,
+        "Medical": 0.08,
+        "IndianDiaspora": 31.7,
+        "Others": 13.66
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "ITALY",
+        "BusinessandProfessional": 23.81,
+        "LeisureHolidayandRecreation": 53.63,
+        "Medical": 0.08,
+        "IndianDiaspora": 13.74,
+        "Others": 8.73
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "NETHERLANDS",
+        "BusinessandProfessional": 29.56,
+        "LeisureHolidayandRecreation": 40.45,
+        "Medical": 0.14,
+        "IndianDiaspora": 9.34,
+        "Others": 20.51
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "NORWAY",
+        "BusinessandProfessional": 17.2,
+        "LeisureHolidayandRecreation": 51.06,
+        "Medical": 0.39,
+        "IndianDiaspora": 22.62,
+        "Others": 8.73
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "PORTUGAL",
+        "BusinessandProfessional": 4.5,
+        "LeisureHolidayandRecreation": 23.79,
+        "Medical": 0.03,
+        "IndianDiaspora": 35.19,
+        "Others": 36.49
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "SPAIN",
+        "BusinessandProfessional": 18.58,
+        "LeisureHolidayandRecreation": 68.98,
+        "Medical": 0.02,
+        "IndianDiaspora": 4.65,
+        "Others": 7.76
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "SWEDEN",
+        "BusinessandProfessional": 29.06,
+        "LeisureHolidayandRecreation": 49.92,
+        "Medical": 0.17,
+        "IndianDiaspora": 10.98,
+        "Others": 9.86
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "SWITZERLAND",
+        "BusinessandProfessional": 17.51,
+        "LeisureHolidayandRecreation": 56.33,
+        "Medical": 0.16,
+        "IndianDiaspora": 9.16,
+        "Others": 16.83
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "UNITED KINGDOM",
+        "BusinessandProfessional": 10.79,
+        "LeisureHolidayandRecreation": 40.53,
+        "Medical": 0.1,
+        "IndianDiaspora": 30.26,
+        "Others": 18.31
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "Total",
+        "BusinessandProfessional": 17.25,
+        "LeisureHolidayandRecreation": 45.68,
+        "Medical": 0.1,
+        "IndianDiaspora": 20.23,
+        "Others": 16.74
+    },
+    {
+        "Year": "2019",
+        "Continent": "Eastern Europe",
+        "Country": "CZECH REPUBLIC",
+        "BusinessandProfessional": 31.82,
+        "LeisureHolidayandRecreation": 59.87,
+        "Medical": 0.05,
+        "IndianDiaspora": 1.82,
+        "Others": 6.44
+    },
+    {
+        "Year": "2019",
+        "Continent": "Eastern Europe",
+        "Country": "HUNGARY",
+        "BusinessandProfessional": 24.74,
+        "LeisureHolidayandRecreation": 63.25,
+        "Medical": 0.11,
+        "IndianDiaspora": 2.62,
+        "Others": 9.28
+    },
+    {
+        "Year": "2019",
+        "Continent": "Eastern Europe",
+        "Country": "KAZAKHSTAN",
+        "BusinessandProfessional": 6.69,
+        "LeisureHolidayandRecreation": 78.39,
+        "Medical": 2.53,
+        "IndianDiaspora": 3.36,
+        "Others": 9.02
+    },
+    {
+        "Year": "2019",
+        "Continent": "Eastern Europe",
+        "Country": "POLAND",
+        "BusinessandProfessional": 24.39,
+        "LeisureHolidayandRecreation": 63.69,
+        "Medical": 0.02,
+        "IndianDiaspora": 2.84,
+        "Others": 9.06
+    },
+    {
+        "Year": "2019",
+        "Continent": "Eastern Europe",
+        "Country": "RUSSIAN FEDERATION",
+        "BusinessandProfessional": 7.83,
+        "LeisureHolidayandRecreation": 84.8,
+        "Medical": 0.12,
+        "IndianDiaspora": 1.08,
+        "Others": 6.18
+    },
+    {
+        "Year": "2019",
+        "Continent": "Eastern Europe",
+        "Country": "UKRAINE",
+        "BusinessandProfessional": 13.57,
+        "LeisureHolidayandRecreation": 57.69,
+        "Medical": 0.29,
+        "IndianDiaspora": 2.98,
+        "Others": 25.47
+    },
+    {
+        "Year": "2019",
+        "Continent": "Eastern Europe",
+        "Country": "Total",
+        "BusinessandProfessional": 12.42,
+        "LeisureHolidayandRecreation": 71.53,
+        "Medical": 5.15,
+        "IndianDiaspora": 1.69,
+        "Others": 9.21
+    },
+    {
+        "Year": "2019",
+        "Continent": "Africa",
+        "Country": "EGYPT",
+        "BusinessandProfessional": 31.27,
+        "LeisureHolidayandRecreation": 16.62,
+        "Medical": 0.71,
+        "IndianDiaspora": 2.58,
+        "Others": 48.83
+    },
+    {
+        "Year": "2019",
+        "Continent": "Africa",
+        "Country": "KENYA",
+        "BusinessandProfessional": 8.88,
+        "LeisureHolidayandRecreation": 22.41,
+        "Medical": 14.2,
+        "IndianDiaspora": 14.63,
+        "Others": 39.89
+    },
+    {
+        "Year": "2019",
+        "Continent": "Africa",
+        "Country": "MAURITIUS",
+        "BusinessandProfessional": 3.07,
+        "LeisureHolidayandRecreation": 68.6,
+        "Medical": 6.85,
+        "IndianDiaspora": 8.32,
+        "Others": 13.16
+    },
+    {
+        "Year": "2019",
+        "Continent": "Africa",
+        "Country": "NIGERIA",
+        "BusinessandProfessional": 18.18,
+        "LeisureHolidayandRecreation": 7.35,
+        "Medical": 48.88,
+        "IndianDiaspora": 8.67,
+        "Others": 16.92
+    },
+    {
+        "Year": "2019",
+        "Continent": "Africa",
+        "Country": "SOUTH AFRICA",
+        "BusinessandProfessional": 17.75,
+        "LeisureHolidayandRecreation": 62.27,
+        "Medical": 0.53,
+        "IndianDiaspora": 6.22,
+        "Others": 13.23
+    },
+    {
+        "Year": "2019",
+        "Continent": "Africa",
+        "Country": "SUDAN",
+        "BusinessandProfessional": 56.22,
+        "LeisureHolidayandRecreation": 5.11,
+        "Medical": 25.85,
+        "IndianDiaspora": 2.72,
+        "Others": 10.1
+    },
+    {
+        "Year": "2019",
+        "Continent": "Africa",
+        "Country": "UNITED REPUBLIC OF TANZAN",
+        "BusinessandProfessional": 17.91,
+        "LeisureHolidayandRecreation": 22.9,
+        "Medical": 20.68,
+        "IndianDiaspora": 11.18,
+        "Others": 27.32
+    },
+    {
+        "Year": "2019",
+        "Continent": "Africa",
+        "Country": "Total",
+        "BusinessandProfessional": 18.67,
+        "LeisureHolidayandRecreation": 31.16,
+        "Medical": 14.46,
+        "IndianDiaspora": 7.52,
+        "Others": 28.19
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "BAHRAIN",
+        "BusinessandProfessional": 2.52,
+        "LeisureHolidayandRecreation": 37.94,
+        "Medical": 7.78,
+        "IndianDiaspora": 11.24,
+        "Others": 40.52
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "IRAQ",
+        "BusinessandProfessional": 0.83,
+        "LeisureHolidayandRecreation": 4.25,
+        "Medical": 82.77,
+        "IndianDiaspora": 1.36,
+        "Others": 10.79
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "ISRAEL",
+        "BusinessandProfessional": 23.02,
+        "LeisureHolidayandRecreation": 69.54,
+        "Medical": 0.03,
+        "IndianDiaspora": 1.06,
+        "Others": 6.35
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "OMAN",
+        "BusinessandProfessional": 1.85,
+        "LeisureHolidayandRecreation": 64.27,
+        "Medical": 29.71,
+        "IndianDiaspora": 1.61,
+        "Others": 2.56
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "SAUDI ARABIA",
+        "BusinessandProfessional": 6.66,
+        "LeisureHolidayandRecreation": 55.82,
+        "Medical": 7.75,
+        "IndianDiaspora": 1.96,
+        "Others": 27.81
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "TURKEY",
+        "BusinessandProfessional": 32.85,
+        "LeisureHolidayandRecreation": 23.58,
+        "Medical": 1.1,
+        "IndianDiaspora": 0.81,
+        "Others": 41.66
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "UNITED ARAB EMIRATES",
+        "BusinessandProfessional": 2.53,
+        "LeisureHolidayandRecreation": 139.45,
+        "Medical": 1.29,
+        "IndianDiaspora": 2.34,
+        "Others": 12.21
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "YEMEN",
+        "BusinessandProfessional": 5.54,
+        "LeisureHolidayandRecreation": 13.37,
+        "Medical": 62.5,
+        "IndianDiaspora": 5.06,
+        "Others": 13.53
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 9.89,
+        "LeisureHolidayandRecreation": 50.44,
+        "Medical": 22.38,
+        "IndianDiaspora": 2.03,
+        "Others": 15.26
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "AFGHANISTAN",
+        "BusinessandProfessional": 8.26,
+        "LeisureHolidayandRecreation": 50.01,
+        "Medical": 26.19,
+        "IndianDiaspora": 6.11,
+        "Others": 9.43
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "BANGLADESH",
+        "BusinessandProfessional": 4.21,
+        "LeisureHolidayandRecreation": 77.36,
+        "Medical": 15.4,
+        "IndianDiaspora": 0.79,
+        "Others": 2.24
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "BHUTAN",
+        "BusinessandProfessional": 0.03,
+        "LeisureHolidayandRecreation": 0.23,
+        "Medical": 0.0,
+        "IndianDiaspora": 0.04,
+        "Others": 99.71
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "IRAN",
+        "BusinessandProfessional": 10.23,
+        "LeisureHolidayandRecreation": 74.73,
+        "Medical": 0.26,
+        "IndianDiaspora": 2.6,
+        "Others": 12.18
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "MALDIVES",
+        "BusinessandProfessional": 1.57,
+        "LeisureHolidayandRecreation": 0.35,
+        "Medical": 9.15,
+        "IndianDiaspora": 0.98,
+        "Others": 87.95
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "NEPAL",
+        "BusinessandProfessional": 0.04,
+        "LeisureHolidayandRecreation": 0.77,
+        "Medical": 0.0,
+        "IndianDiaspora": 0.06,
+        "Others": 99.13
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "PAKISTAN",
+        "BusinessandProfessional": 4.28,
+        "LeisureHolidayandRecreation": 27.11,
+        "Medical": 2.39,
+        "IndianDiaspora": 0.43,
+        "Others": 65.8
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "SriLanka",
+        "BusinessandProfessional": 21.65,
+        "LeisureHolidayandRecreation": 63.68,
+        "Medical": 1.21,
+        "IndianDiaspora": 3.4,
+        "Others": 10.06
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 5.83,
+        "LeisureHolidayandRecreation": 68.25,
+        "Medical": 13.08,
+        "IndianDiaspora": 1.22,
+        "Others": 11.62
+    },
+    {
+        "Year": "2019",
+        "Continent": "South East Asia",
+        "Country": "INDONESIA",
+        "BusinessandProfessional": 19.8,
+        "LeisureHolidayandRecreation": 59.2,
+        "Medical": 0.45,
+        "IndianDiaspora": 3.91,
+        "Others": 16.63
+    },
+    {
+        "Year": "2019",
+        "Continent": "South East Asia",
+        "Country": "MALAYSIA",
+        "BusinessandProfessional": 7.06,
+        "LeisureHolidayandRecreation": 63.62,
+        "Medical": 0.09,
+        "IndianDiaspora": 10.84,
+        "Others": 18.39
+    },
+    {
+        "Year": "2019",
+        "Continent": "South East Asia",
+        "Country": "MYANMAR (BURMA)",
+        "BusinessandProfessional": 5.45,
+        "LeisureHolidayandRecreation": 82.28,
+        "Medical": 4.47,
+        "IndianDiaspora": 1.11,
+        "Others": 6.68
+    },
+    {
+        "Year": "2019",
+        "Continent": "South East Asia",
+        "Country": "PHILIPPINES",
+        "BusinessandProfessional": 19.76,
+        "LeisureHolidayandRecreation": 30.74,
+        "Medical": 0.55,
+        "IndianDiaspora": 3.08,
+        "Others": 45.88
+    },
+    {
+        "Year": "2019",
+        "Continent": "South East Asia",
+        "Country": "SINGAPORE",
+        "BusinessandProfessional": 14.4,
+        "LeisureHolidayandRecreation": 30.17,
+        "Medical": 0.03,
+        "IndianDiaspora": 17.25,
+        "Others": 38.15
+    },
+    {
+        "Year": "2019",
+        "Continent": "South East Asia",
+        "Country": "THAILAND",
+        "BusinessandProfessional": 10.17,
+        "LeisureHolidayandRecreation": 71.9,
+        "Medical": 0.02,
+        "IndianDiaspora": 2.12,
+        "Others": 15.79
+    },
+    {
+        "Year": "2019",
+        "Continent": "South East Asia",
+        "Country": "VIETNAM",
+        "BusinessandProfessional": 12.92,
+        "LeisureHolidayandRecreation": 77.33,
+        "Medical": 0.01,
+        "IndianDiaspora": 1.03,
+        "Others": 8.7
+    },
+    {
+        "Year": "2019",
+        "Continent": "South East Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 10.67,
+        "LeisureHolidayandRecreation": 58.29,
+        "Medical": 0.64,
+        "IndianDiaspora": 8.38,
+        "Others": 22.02
+    },
+    {
+        "Year": "2019",
+        "Continent": "East Asia",
+        "Country": "CHINA",
+        "BusinessandProfessional": 45.43,
+        "LeisureHolidayandRecreation": 43.26,
+        "Medical": 0.04,
+        "IndianDiaspora": 1.57,
+        "Others": 9.71
+    },
+    {
+        "Year": "2019",
+        "Continent": "East Asia",
+        "Country": "JAPAN",
+        "BusinessandProfessional": 59.6,
+        "LeisureHolidayandRecreation": 31.52,
+        "Medical": 0.01,
+        "IndianDiaspora": 1.53,
+        "Others": 7.33
+    },
+    {
+        "Year": "2019",
+        "Continent": "East Asia",
+        "Country": "REPUBLIC OF KOREA",
+        "BusinessandProfessional": 49.79,
+        "LeisureHolidayandRecreation": 37.12,
+        "Medical": 0.0,
+        "IndianDiaspora": 2.06,
+        "Others": 11.03
+    },
+    {
+        "Year": "2019",
+        "Continent": "East Asia",
+        "Country": "TAIWAN",
+        "BusinessandProfessional": 32.11,
+        "LeisureHolidayandRecreation": 57.74,
+        "Medical": 0.01,
+        "IndianDiaspora": 1.28,
+        "Others": 8.85
+    },
+    {
+        "Year": "2019",
+        "Continent": "East Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 49.48,
+        "LeisureHolidayandRecreation": 39.35,
+        "Medical": 0.05,
+        "IndianDiaspora": 1.76,
+        "Others": 9.37
+    },
+    {
+        "Year": "2019",
+        "Continent": "Australasia",
+        "Country": "AUSTRALIA",
+        "BusinessandProfessional": 8.14,
+        "LeisureHolidayandRecreation": 36.19,
+        "Medical": 0.1,
+        "IndianDiaspora": 42.11,
+        "Others": 13.46
+    },
+    {
+        "Year": "2019",
+        "Continent": "Australasia",
+        "Country": "NEW ZEALAND",
+        "BusinessandProfessional": 7.22,
+        "LeisureHolidayandRecreation": 42.45,
+        "Medical": 0.22,
+        "IndianDiaspora": 26.4,
+        "Others": 23.7
+    },
+    {
+        "Year": "2019",
+        "Continent": "Australasia",
+        "Country": "Total",
+        "BusinessandProfessional": 7.97,
+        "LeisureHolidayandRecreation": 37.28,
+        "Medical": 0.5,
+        "IndianDiaspora": 39.32,
+        "Others": 14.93
+    },
+    {
+        "Year": "2019",
+        "Continent": "Australasia",
+        "Country": "Not Classified Elsewhere",
+        "BusinessandProfessional": 5.04,
+        "LeisureHolidayandRecreation": 44.58,
+        "Medical": 1.12,
+        "IndianDiaspora": 2.59,
+        "Others": 46.67
+    },
+    {
+        "Year": "2019",
+        "Continent": "Australasia",
+        "Country": "Grand Total",
+        "BusinessandProfessional": 14.69,
+        "LeisureHolidayandRecreation": 57.06,
+        "Medical": 6.38,
+        "IndianDiaspora": 12.67,
+        "Others": 9.2
+    },
+    {
+        "Year": "2018",
+        "Continent": "North America",
+        "Country": "CANADA",
+        "BusinessandProfessional": 9.7,
+        "LeisureHolidayandRecreation": 64.8,
+        "Medical": 0.9,
+        "IndianDiaspora": 23.8,
+        "Others": 0.8
+    },
+    {
+        "Year": "2018",
+        "Continent": "North America",
+        "Country": "United States of America",
+        "BusinessandProfessional": 16.9,
+        "LeisureHolidayandRecreation": 51.1,
+        "Medical": 1.1,
+        "IndianDiaspora": 29.9,
+        "Others": 1.0
+    },
+    {
+        "Year": "2018",
+        "Continent": "North America",
+        "Country": "Total",
+        "BusinessandProfessional": 15.5,
+        "LeisureHolidayandRecreation": 53.8,
+        "Medical": 1.1,
+        "IndianDiaspora": 28.7,
+        "Others": 0.9
+    },
+    {
+        "Year": "2018",
+        "Continent": "Central & South America",
+        "Country": "ARGENTINA",
+        "BusinessandProfessional": 9.8,
+        "LeisureHolidayandRecreation": 87.8,
+        "Medical": 0.2,
+        "IndianDiaspora": 1.6,
+        "Others": 0.6
+    },
+    {
+        "Year": "2018",
+        "Continent": "Central & South America",
+        "Country": "BRAZIL",
+        "BusinessandProfessional": 27.3,
+        "LeisureHolidayandRecreation": 66.2,
+        "Medical": 0.5,
+        "IndianDiaspora": 4.2,
+        "Others": 1.8
+    },
+    {
+        "Year": "2018",
+        "Continent": "Central & South America",
+        "Country": "MEXICO",
+        "BusinessandProfessional": 16.3,
+        "LeisureHolidayandRecreation": 78.7,
+        "Medical": 0.5,
+        "IndianDiaspora": 3.3,
+        "Others": 1.2
+    },
+    {
+        "Year": "2018",
+        "Continent": "Central & South America",
+        "Country": "Total",
+        "BusinessandProfessional": 18.7,
+        "LeisureHolidayandRecreation": 73.3,
+        "Medical": 0.6,
+        "IndianDiaspora": 5.6,
+        "Others": 1.8
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "AUSTRIA",
+        "BusinessandProfessional": 25.8,
+        "LeisureHolidayandRecreation": 57.4,
+        "Medical": 0.9,
+        "IndianDiaspora": 15.1,
+        "Others": 0.8
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "BELGIUM",
+        "BusinessandProfessional": 27.3,
+        "LeisureHolidayandRecreation": 56.1,
+        "Medical": 0.7,
+        "IndianDiaspora": 14.7,
+        "Others": 1.2
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "DENMARK",
+        "BusinessandProfessional": 35.0,
+        "LeisureHolidayandRecreation": 56.3,
+        "Medical": 0.4,
+        "IndianDiaspora": 7.5,
+        "Others": 0.8
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "FINLAND",
+        "BusinessandProfessional": 31.1,
+        "LeisureHolidayandRecreation": 59.8,
+        "Medical": 0.6,
+        "IndianDiaspora": 7.5,
+        "Others": 1.0
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "FRANCE",
+        "BusinessandProfessional": 22.9,
+        "LeisureHolidayandRecreation": 66.4,
+        "Medical": 0.5,
+        "IndianDiaspora": 8.6,
+        "Others": 1.6
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "GERMANY",
+        "BusinessandProfessional": 31.8,
+        "LeisureHolidayandRecreation": 56.5,
+        "Medical": 0.5,
+        "IndianDiaspora": 10.2,
+        "Others": 1.0
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "GREECE",
+        "BusinessandProfessional": 23.0,
+        "LeisureHolidayandRecreation": 63.6,
+        "Medical": 1.3,
+        "IndianDiaspora": 8.7,
+        "Others": 3.4
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "IRELAND",
+        "BusinessandProfessional": 22.6,
+        "LeisureHolidayandRecreation": 46.9,
+        "Medical": 1.1,
+        "IndianDiaspora": 28.7,
+        "Others": 0.7
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "ITALY",
+        "BusinessandProfessional": 25.3,
+        "LeisureHolidayandRecreation": 59.7,
+        "Medical": 0.6,
+        "IndianDiaspora": 13.7,
+        "Others": 0.7
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "NETHERLANDS",
+        "BusinessandProfessional": 32.7,
+        "LeisureHolidayandRecreation": 52.4,
+        "Medical": 0.8,
+        "IndianDiaspora": 13.0,
+        "Others": 1.1
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "NORWAY",
+        "BusinessandProfessional": 18.4,
+        "LeisureHolidayandRecreation": 56.8,
+        "Medical": 0.8,
+        "IndianDiaspora": 22.8,
+        "Others": 1.2
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "PORTUGAL",
+        "BusinessandProfessional": 9.7,
+        "LeisureHolidayandRecreation": 42.3,
+        "Medical": 1.0,
+        "IndianDiaspora": 46.0,
+        "Others": 1.0
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "SPAIN",
+        "BusinessandProfessional": 19.2,
+        "LeisureHolidayandRecreation": 73.7,
+        "Medical": 0.4,
+        "IndianDiaspora": 6.1,
+        "Others": 0.6
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "SWEDEN",
+        "BusinessandProfessional": 30.1,
+        "LeisureHolidayandRecreation": 57.5,
+        "Medical": 0.7,
+        "IndianDiaspora": 11.3,
+        "Others": 0.4
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "SWITZERLAND",
+        "BusinessandProfessional": 21.0,
+        "LeisureHolidayandRecreation": 67.6,
+        "Medical": 0.7,
+        "IndianDiaspora": 9.7,
+        "Others": 1.0
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "UNITED KINGDOM",
+        "BusinessandProfessional": 14.8,
+        "LeisureHolidayandRecreation": 55.1,
+        "Medical": 1.0,
+        "IndianDiaspora": 27.3,
+        "Others": 1.8
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "Total",
+        "BusinessandProfessional": 20.6,
+        "LeisureHolidayandRecreation": 57.4,
+        "Medical": 0.8,
+        "IndianDiaspora": 19.8,
+        "Others": 1.4
+    },
+    {
+        "Year": "2018",
+        "Continent": "Eastern Europe",
+        "Country": "CZECH REPUBLIC",
+        "BusinessandProfessional": 32.6,
+        "LeisureHolidayandRecreation": 62.6,
+        "Medical": 0.4,
+        "IndianDiaspora": 3.5,
+        "Others": 0.9
+    },
+    {
+        "Year": "2018",
+        "Continent": "Eastern Europe",
+        "Country": "HUNGARY",
+        "BusinessandProfessional": 26.9,
+        "LeisureHolidayandRecreation": 67.4,
+        "Medical": 0.6,
+        "IndianDiaspora": 3.9,
+        "Others": 1.2
+    },
+    {
+        "Year": "2018",
+        "Continent": "Eastern Europe",
+        "Country": "KAZAKHISTAN",
+        "BusinessandProfessional": 7.2,
+        "LeisureHolidayandRecreation": 82.1,
+        "Medical": 3.1,
+        "IndianDiaspora": 5.4,
+        "Others": 2.2
+    },
+    {
+        "Year": "2018",
+        "Continent": "Eastern Europe",
+        "Country": "POLAND",
+        "BusinessandProfessional": 24.3,
+        "LeisureHolidayandRecreation": 70.8,
+        "Medical": 0.3,
+        "IndianDiaspora": 3.5,
+        "Others": 1.1
+    },
+    {
+        "Year": "2018",
+        "Continent": "Eastern Europe",
+        "Country": "RUSSIAN FEDERATION",
+        "BusinessandProfessional": 6.9,
+        "LeisureHolidayandRecreation": 89.8,
+        "Medical": 0.5,
+        "IndianDiaspora": 2.2,
+        "Others": 0.6
+    },
+    {
+        "Year": "2018",
+        "Continent": "Eastern Europe",
+        "Country": "UKRAINE",
+        "BusinessandProfessional": 12.9,
+        "LeisureHolidayandRecreation": 75.4,
+        "Medical": 1.5,
+        "IndianDiaspora": 5.6,
+        "Others": 4.6
+    },
+    {
+        "Year": "2018",
+        "Continent": "Eastern Europe",
+        "Country": "Total",
+        "BusinessandProfessional": 11.0,
+        "LeisureHolidayandRecreation": 80.4,
+        "Medical": 4.2,
+        "IndianDiaspora": 3.2,
+        "Others": 1.2
+    },
+    {
+        "Year": "2018",
+        "Continent": "Africa",
+        "Country": "EGYPT",
+        "BusinessandProfessional": 41.0,
+        "LeisureHolidayandRecreation": 41.3,
+        "Medical": 2.9,
+        "IndianDiaspora": 9.3,
+        "Others": 5.5
+    },
+    {
+        "Year": "2018",
+        "Continent": "Africa",
+        "Country": "KENYA",
+        "BusinessandProfessional": 12.8,
+        "LeisureHolidayandRecreation": 44.6,
+        "Medical": 16.5,
+        "IndianDiaspora": 23.5,
+        "Others": 2.6
+    },
+    {
+        "Year": "2018",
+        "Continent": "Africa",
+        "Country": "MAURITIUS",
+        "BusinessandProfessional": 5.0,
+        "LeisureHolidayandRecreation": 77.1,
+        "Medical": 6.3,
+        "IndianDiaspora": 9.3,
+        "Others": 2.3
+    },
+    {
+        "Year": "2018",
+        "Continent": "Africa",
+        "Country": "NIGERIA",
+        "BusinessandProfessional": 17.5,
+        "LeisureHolidayandRecreation": 12.6,
+        "Medical": 46.9,
+        "IndianDiaspora": 9.3,
+        "Others": 13.7
+    },
+    {
+        "Year": "2018",
+        "Continent": "Africa",
+        "Country": "SOUTH AFRICA",
+        "BusinessandProfessional": 19.3,
+        "LeisureHolidayandRecreation": 70.4,
+        "Medical": 1.0,
+        "IndianDiaspora": 8.6,
+        "Others": 0.7
+    },
+    {
+        "Year": "2018",
+        "Continent": "Africa",
+        "Country": "SUDAN",
+        "BusinessandProfessional": 54.6,
+        "LeisureHolidayandRecreation": 7.5,
+        "Medical": 25.0,
+        "IndianDiaspora": 4.4,
+        "Others": 8.5
+    },
+    {
+        "Year": "2018",
+        "Continent": "Africa",
+        "Country": "UNITED REPUBLIC OF TANZAN",
+        "BusinessandProfessional": 18.8,
+        "LeisureHolidayandRecreation": 34.2,
+        "Medical": 22.3,
+        "IndianDiaspora": 16.3,
+        "Others": 8.4
+    },
+    {
+        "Year": "2018",
+        "Continent": "Africa",
+        "Country": "Total",
+        "BusinessandProfessional": 21.9,
+        "LeisureHolidayandRecreation": 45.2,
+        "Medical": 14.6,
+        "IndianDiaspora": 12.2,
+        "Others": 6.1
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "BAHRAIN",
+        "BusinessandProfessional": 8.1,
+        "LeisureHolidayandRecreation": 60.3,
+        "Medical": 10.5,
+        "IndianDiaspora": 17.5,
+        "Others": 3.6
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "IRAQ",
+        "BusinessandProfessional": 1.9,
+        "LeisureHolidayandRecreation": 7.2,
+        "Medical": 86.6,
+        "IndianDiaspora": 2.5,
+        "Others": 1.8
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "ISRAEL",
+        "BusinessandProfessional": 26.0,
+        "LeisureHolidayandRecreation": 71.0,
+        "Medical": 0.3,
+        "IndianDiaspora": 2.3,
+        "Others": 0.4
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "OMAN",
+        "BusinessandProfessional": 1.7,
+        "LeisureHolidayandRecreation": 66.8,
+        "Medical": 28.9,
+        "IndianDiaspora": 2.1,
+        "Others": 0.5
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "SAUDI ARABIA",
+        "BusinessandProfessional": 8.6,
+        "LeisureHolidayandRecreation": 72.5,
+        "Medical": 10.4,
+        "IndianDiaspora": 7.0,
+        "Others": 1.5
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "TURKEY",
+        "BusinessandProfessional": 39.5,
+        "LeisureHolidayandRecreation": 48.4,
+        "Medical": 2.3,
+        "IndianDiaspora": 7.7,
+        "Others": 2.1
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "UNITED ARAB EMIRATES",
+        "BusinessandProfessional": 2.8,
+        "LeisureHolidayandRecreation": 91.9,
+        "Medical": 1.6,
+        "IndianDiaspora": 3.3,
+        "Others": 0.4
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "YEMEN",
+        "BusinessandProfessional": 5.9,
+        "LeisureHolidayandRecreation": 20.7,
+        "Medical": 54.7,
+        "IndianDiaspora": 7.5,
+        "Others": 11.2
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 11.0,
+        "LeisureHolidayandRecreation": 58.6,
+        "Medical": 24.2,
+        "IndianDiaspora": 4.5,
+        "Others": 1.7
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "AFGHANISTAN",
+        "BusinessandProfessional": 7.8,
+        "LeisureHolidayandRecreation": 48.7,
+        "Medical": 30.4,
+        "IndianDiaspora": 6.8,
+        "Others": 6.3
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "BANGLADESH",
+        "BusinessandProfessional": 4.9,
+        "LeisureHolidayandRecreation": 78.9,
+        "Medical": 14.3,
+        "IndianDiaspora": 0.9,
+        "Others": 1.0
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "BHUTAN",
+        "BusinessandProfessional": 11.8,
+        "LeisureHolidayandRecreation": 68.5,
+        "Medical": 6.3,
+        "IndianDiaspora": 11.3,
+        "Others": 2.1
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "IRAN",
+        "BusinessandProfessional": 8.7,
+        "LeisureHolidayandRecreation": 78.9,
+        "Medical": 0.7,
+        "IndianDiaspora": 4.4,
+        "Others": 7.3
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "MALDIVES",
+        "BusinessandProfessional": 12.9,
+        "LeisureHolidayandRecreation": 48.9,
+        "Medical": 21.8,
+        "IndianDiaspora": 13.0,
+        "Others": 3.4
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "NEPAL",
+        "BusinessandProfessional": 15.3,
+        "LeisureHolidayandRecreation": 63.4,
+        "Medical": 6.6,
+        "IndianDiaspora": 12.2,
+        "Others": 2.5
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "PAKISTAN",
+        "BusinessandProfessional": 4.1,
+        "LeisureHolidayandRecreation": 39.0,
+        "Medical": 3.9,
+        "IndianDiaspora": 3.0,
+        "Others": 50.0
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "SRILANKA",
+        "BusinessandProfessional": 19.2,
+        "LeisureHolidayandRecreation": 72.1,
+        "Medical": 1.9,
+        "IndianDiaspora": 5.6,
+        "Others": 1.2
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 7.5,
+        "LeisureHolidayandRecreation": 74.5,
+        "Medical": 13.0,
+        "IndianDiaspora": 2.7,
+        "Others": 2.3
+    },
+    {
+        "Year": "2018",
+        "Continent": "South East Asia",
+        "Country": "INDONESIA",
+        "BusinessandProfessional": 23.3,
+        "LeisureHolidayandRecreation": 62.6,
+        "Medical": 1.3,
+        "IndianDiaspora": 10.9,
+        "Others": 1.9
+    },
+    {
+        "Year": "2018",
+        "Continent": "South East Asia",
+        "Country": "MALAYSIA",
+        "BusinessandProfessional": 9.2,
+        "LeisureHolidayandRecreation": 72.3,
+        "Medical": 0.5,
+        "IndianDiaspora": 16.3,
+        "Others": 1.7
+    },
+    {
+        "Year": "2018",
+        "Continent": "South East Asia",
+        "Country": "MYANMAR (BURMA)",
+        "BusinessandProfessional": 6.6,
+        "LeisureHolidayandRecreation": 85.9,
+        "Medical": 3.1,
+        "IndianDiaspora": 2.4,
+        "Others": 2.0
+    },
+    {
+        "Year": "2018",
+        "Continent": "South East Asia",
+        "Country": "PHILIPPINES",
+        "BusinessandProfessional": 24.1,
+        "LeisureHolidayandRecreation": 54.2,
+        "Medical": 3.4,
+        "IndianDiaspora": 9.0,
+        "Others": 9.3
+    },
+    {
+        "Year": "2018",
+        "Continent": "South East Asia",
+        "Country": "SINGAPORE",
+        "BusinessandProfessional": 21.8,
+        "LeisureHolidayandRecreation": 48.3,
+        "Medical": 1.2,
+        "IndianDiaspora": 28.1,
+        "Others": 0.6
+    },
+    {
+        "Year": "2018",
+        "Continent": "South East Asia",
+        "Country": "THAILAND",
+        "BusinessandProfessional": 12.0,
+        "LeisureHolidayandRecreation": 81.4,
+        "Medical": 0.5,
+        "IndianDiaspora": 3.8,
+        "Others": 2.3
+    },
+    {
+        "Year": "2018",
+        "Continent": "South East Asia",
+        "Country": "VIETNAM",
+        "BusinessandProfessional": 14.3,
+        "LeisureHolidayandRecreation": 79.6,
+        "Medical": 0.3,
+        "IndianDiaspora": 2.1,
+        "Others": 3.7
+    },
+    {
+        "Year": "2018",
+        "Continent": "South East Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 13.9,
+        "LeisureHolidayandRecreation": 68.9,
+        "Medical": 1.2,
+        "IndianDiaspora": 13.9,
+        "Others": 2.1
+    },
+    {
+        "Year": "2018",
+        "Continent": "East Asia",
+        "Country": "CHINA",
+        "BusinessandProfessional": 47.6,
+        "LeisureHolidayandRecreation": 48.0,
+        "Medical": 0.3,
+        "IndianDiaspora": 3.4,
+        "Others": 0.7
+    },
+    {
+        "Year": "2018",
+        "Continent": "East Asia",
+        "Country": "JAPAN",
+        "BusinessandProfessional": 61.3,
+        "LeisureHolidayandRecreation": 34.9,
+        "Medical": 0.3,
+        "IndianDiaspora": 2.8,
+        "Others": 0.7
+    },
+    {
+        "Year": "2018",
+        "Continent": "East Asia",
+        "Country": "REPUBLIC OF KOREA",
+        "BusinessandProfessional": 46.8,
+        "LeisureHolidayandRecreation": 46.6,
+        "Medical": 0.3,
+        "IndianDiaspora": 4.2,
+        "Others": 2.1
+    },
+    {
+        "Year": "2018",
+        "Continent": "East Asia",
+        "Country": "TAIWAN",
+        "BusinessandProfessional": 31.9,
+        "LeisureHolidayandRecreation": 64.6,
+        "Medical": 0.3,
+        "IndianDiaspora": 2.4,
+        "Others": 0.8
+    },
+    {
+        "Year": "2018",
+        "Continent": "East Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 50.5,
+        "LeisureHolidayandRecreation": 44.7,
+        "Medical": 0.3,
+        "IndianDiaspora": 3.4,
+        "Others": 1.1
+    },
+    {
+        "Year": "2018",
+        "Continent": "Australasia",
+        "Country": "AUSTRALIA",
+        "BusinessandProfessional": 13.8,
+        "LeisureHolidayandRecreation": 48.5,
+        "Medical": 0.9,
+        "IndianDiaspora": 36.1,
+        "Others": 0.7
+    },
+    {
+        "Year": "2018",
+        "Continent": "Australasia",
+        "Country": "NEW ZEALAND",
+        "BusinessandProfessional": 13.2,
+        "LeisureHolidayandRecreation": 52.6,
+        "Medical": 1.1,
+        "IndianDiaspora": 32.3,
+        "Others": 0.8
+    },
+    {
+        "Year": "2018",
+        "Continent": "Australasia",
+        "Country": "Total",
+        "BusinessandProfessional": 13.6,
+        "LeisureHolidayandRecreation": 49.2,
+        "Medical": 1.2,
+        "IndianDiaspora": 35.3,
+        "Others": 0.7
+    },
+    {
+        "Year": "2018",
+        "Continent": "Australasia",
+        "Country": "Not Classified Elsewhere",
+        "BusinessandProfessional": 15.5,
+        "LeisureHolidayandRecreation": 53.8,
+        "Medical": 1.1,
+        "IndianDiaspora": 28.7,
+        "Others": 0.9
+    },
+    {
+        "Year": "2018",
+        "Continent": "Australasia",
+        "Country": "Grand Total",
+        "BusinessandProfessional": 16.3,
+        "LeisureHolidayandRecreation": 62.4,
+        "Medical": 6.1,
+        "IndianDiaspora": 13.5,
+        "Others": 1.7
+    },
+    {
+        "Year": "2017",
+        "Continent": "NORTH AMERICA",
+        "Country": "CANADA",
+        "BusinessandProfessional": 4.65,
+        "LeisureHolidayandRecreation": 54.74,
+        "Medical": 0.09,
+        "IndianDiaspora": 37.4,
+        "Others": 3.12
+    },
+    {
+        "Year": "2017",
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED\nSTATES",
+        "BusinessandProfessional": 10.42,
+        "LeisureHolidayandRecreation": 40.71,
+        "Medical": 0.05,
+        "IndianDiaspora": 45.77,
+        "Others": 3.05
+    },
+    {
+        "Year": "2017",
+        "Continent": "NORTH AMERICA",
+        "Country": "Total",
+        "BusinessandProfessional": 9.31,
+        "LeisureHolidayandRecreation": 43.42,
+        "Medical": 0.06,
+        "IndianDiaspora": 44.15,
+        "Others": 3.07
+    },
+    {
+        "Year": "2017",
+        "Continent": "CENTRAL & SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "BusinessandProfessional": 10.6,
+        "LeisureHolidayandRecreation": 87.24,
+        "Medical": 0.01,
+        "IndianDiaspora": 1.24,
+        "Others": 0.91
+    },
+    {
+        "Year": "2017",
+        "Continent": "CENTRAL & SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "BusinessandProfessional": 26.17,
+        "LeisureHolidayandRecreation": 66.67,
+        "Medical": 0.08,
+        "IndianDiaspora": 5.22,
+        "Others": 1.85
+    },
+    {
+        "Year": "2017",
+        "Continent": "CENTRAL & SOUTH AMERICA",
+        "Country": "MEXICO",
+        "BusinessandProfessional": 15.16,
+        "LeisureHolidayandRecreation": 80.2,
+        "Medical": 0.08,
+        "IndianDiaspora": 3.31,
+        "Others": 1.25
+    },
+    {
+        "Year": "2017",
+        "Continent": "CENTRAL & SOUTH AMERICA",
+        "Country": "Total",
+        "BusinessandProfessional": 17.83,
+        "LeisureHolidayandRecreation": 73.17,
+        "Medical": 0.12,
+        "IndianDiaspora": 6.6,
+        "Others": 2.29
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "AUSTRIA",
+        "BusinessandProfessional": 24.27,
+        "LeisureHolidayandRecreation": 51.2,
+        "Medical": 0.05,
+        "IndianDiaspora": 23.32,
+        "Others": 1.16
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "BELGIUM",
+        "BusinessandProfessional": 25.3,
+        "LeisureHolidayandRecreation": 47.79,
+        "Medical": 0.07,
+        "IndianDiaspora": 22.95,
+        "Others": 3.89
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "DENMARK",
+        "BusinessandProfessional": 37.18,
+        "LeisureHolidayandRecreation": 52.77,
+        "Medical": 0.1,
+        "IndianDiaspora": 8.8,
+        "Others": 1.16
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "FINLAND",
+        "BusinessandProfessional": 32.58,
+        "LeisureHolidayandRecreation": 57.98,
+        "Medical": 0.04,
+        "IndianDiaspora": 7.88,
+        "Others": 1.51
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "FRANCE",
+        "BusinessandProfessional": 20.59,
+        "LeisureHolidayandRecreation": 64.17,
+        "Medical": 0.04,
+        "IndianDiaspora": 12.67,
+        "Others": 2.53
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "GERMANY",
+        "BusinessandProfessional": 31.02,
+        "LeisureHolidayandRecreation": 55.0,
+        "Medical": 4.0,
+        "IndianDiaspora": 12.83,
+        "Others": 1.11
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "GREECE",
+        "BusinessandProfessional": 25.86,
+        "LeisureHolidayandRecreation": 61.16,
+        "Medical": 0.01,
+        "IndianDiaspora": 7.03,
+        "Others": 5.93
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "IRELAND",
+        "BusinessandProfessional": 19.47,
+        "LeisureHolidayandRecreation": 36.69,
+        "Medical": 0.05,
+        "IndianDiaspora": 42.53,
+        "Others": 1.25
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "ITALY",
+        "BusinessandProfessional": 27.14,
+        "LeisureHolidayandRecreation": 56.09,
+        "Medical": 0.04,
+        "IndianDiaspora": 15.9,
+        "Others": 0.83
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "NETHERLANDS",
+        "BusinessandProfessional": 30.59,
+        "LeisureHolidayandRecreation": 50.06,
+        "Medical": 0.11,
+        "IndianDiaspora": 17.4,
+        "Others": 1.83
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "NORWAY",
+        "BusinessandProfessional": 15.94,
+        "LeisureHolidayandRecreation": 53.07,
+        "Medical": 0.28,
+        "IndianDiaspora": 28.84,
+        "Others": 1.87
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "PORTUGAL",
+        "BusinessandProfessional": 4.62,
+        "LeisureHolidayandRecreation": 22.68,
+        "Medical": 0.02,
+        "IndianDiaspora": 68.33,
+        "Others": 4.34
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "SPAIN",
+        "BusinessandProfessional": 18.37,
+        "LeisureHolidayandRecreation": 72.72,
+        "Medical": 0.02,
+        "IndianDiaspora": 7.79,
+        "Others": 1.1
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "SWEDEN",
+        "BusinessandProfessional": 28.76,
+        "LeisureHolidayandRecreation": 55.87,
+        "Medical": 0.1,
+        "IndianDiaspora": 13.95,
+        "Others": 1.34
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "SWITZERLAND",
+        "BusinessandProfessional": 19.75,
+        "LeisureHolidayandRecreation": 65.04,
+        "Medical": 0.12,
+        "IndianDiaspora": 13.55,
+        "Others": 1.53
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "UNITED\nKINGDOM",
+        "BusinessandProfessional": 11.06,
+        "LeisureHolidayandRecreation": 42.49,
+        "Medical": 0.08,
+        "IndianDiaspora": 43.19,
+        "Others": 3.19
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "Total",
+        "BusinessandProfessional": 17.99,
+        "LeisureHolidayandRecreation": 49.43,
+        "Medical": 0.07,
+        "IndianDiaspora": 30.04,
+        "Others": 2.48
+    },
+    {
+        "Year": "2017",
+        "Continent": "EASTERN EUROPE",
+        "Country": "CZECH\nREPUBLIC",
+        "BusinessandProfessional": 33.04,
+        "LeisureHolidayandRecreation": 62.95,
+        "Medical": 0.05,
+        "IndianDiaspora": 2.58,
+        "Others": 1.39
+    },
+    {
+        "Year": "2017",
+        "Continent": "EASTERN EUROPE",
+        "Country": "HUNGARY",
+        "BusinessandProfessional": 24.93,
+        "LeisureHolidayandRecreation": 70.26,
+        "Medical": 0.17,
+        "IndianDiaspora": 3.43,
+        "Others": 1.21
+    },
+    {
+        "Year": "2017",
+        "Continent": "EASTERN EUROPE",
+        "Country": "KAZAKHISTAN",
+        "BusinessandProfessional": 6.79,
+        "LeisureHolidayandRecreation": 83.34,
+        "Medical": 2.38,
+        "IndianDiaspora": 4.92,
+        "Others": 2.57
+    },
+    {
+        "Year": "2017",
+        "Continent": "EASTERN EUROPE",
+        "Country": "POLAND",
+        "BusinessandProfessional": 23.58,
+        "LeisureHolidayandRecreation": 71.28,
+        "Medical": 0.02,
+        "IndianDiaspora": 3.67,
+        "Others": 1.45
+    },
+    {
+        "Year": "2017",
+        "Continent": "EASTERN EUROPE",
+        "Country": "RUSSIAN\nFEDERATION",
+        "BusinessandProfessional": 9.92,
+        "LeisureHolidayandRecreation": 88.09,
+        "Medical": 0.11,
+        "IndianDiaspora": 1.3,
+        "Others": 0.59
+    },
+    {
+        "Year": "2017",
+        "Continent": "EASTERN EUROPE",
+        "Country": "UKRAINE",
+        "BusinessandProfessional": 11.17,
+        "LeisureHolidayandRecreation": 78.27,
+        "Medical": 0.43,
+        "IndianDiaspora": 4.38,
+        "Others": 5.75
+    },
+    {
+        "Year": "2017",
+        "Continent": "EASTERN EUROPE",
+        "Country": "Total",
+        "BusinessandProfessional": 12.89,
+        "LeisureHolidayandRecreation": 81.15,
+        "Medical": 2.37,
+        "IndianDiaspora": 2.16,
+        "Others": 1.44
+    },
+    {
+        "Year": "2017",
+        "Continent": "AFRICA",
+        "Country": "EGYPT",
+        "BusinessandProfessional": 51.85,
+        "LeisureHolidayandRecreation": 29.73,
+        "Medical": 1.21,
+        "IndianDiaspora": 5.34,
+        "Others": 11.87
+    },
+    {
+        "Year": "2017",
+        "Continent": "AFRICA",
+        "Country": "KENYA",
+        "BusinessandProfessional": 5.81,
+        "LeisureHolidayandRecreation": 27.23,
+        "Medical": 16.29,
+        "IndianDiaspora": 46.18,
+        "Others": 4.49
+    },
+    {
+        "Year": "2017",
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "BusinessandProfessional": 3.19,
+        "LeisureHolidayandRecreation": 79.71,
+        "Medical": 4.46,
+        "IndianDiaspora": 9.68,
+        "Others": 2.96
+    },
+    {
+        "Year": "2017",
+        "Continent": "AFRICA",
+        "Country": "NIGERIA",
+        "BusinessandProfessional": 16.24,
+        "LeisureHolidayandRecreation": 11.63,
+        "Medical": 43.71,
+        "IndianDiaspora": 14.17,
+        "Others": 14.25
+    },
+    {
+        "Year": "2017",
+        "Continent": "AFRICA",
+        "Country": "SOUTH AFRICA",
+        "BusinessandProfessional": 16.05,
+        "LeisureHolidayandRecreation": 68.07,
+        "Medical": 0.25,
+        "IndianDiaspora": 13.83,
+        "Others": 1.8
+    },
+    {
+        "Year": "2017",
+        "Continent": "AFRICA",
+        "Country": "SUDAN",
+        "BusinessandProfessional": 32.9,
+        "LeisureHolidayandRecreation": 13.51,
+        "Medical": 30.35,
+        "IndianDiaspora": 6.7,
+        "Others": 16.54
+    },
+    {
+        "Year": "2017",
+        "Continent": "AFRICA",
+        "Country": "UNITED\nREPUBLIC OF\nTANZAN",
+        "BusinessandProfessional": 13.09,
+        "LeisureHolidayandRecreation": 32.46,
+        "Medical": 22.67,
+        "IndianDiaspora": 21.56,
+        "Others": 10.22
+    },
+    {
+        "Year": "2017",
+        "Continent": "AFRICA",
+        "Country": "Total",
+        "BusinessandProfessional": 17.46,
+        "LeisureHolidayandRecreation": 40.43,
+        "Medical": 15.7,
+        "IndianDiaspora": 17.8,
+        "Others": 8.6
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "BAHRAIN",
+        "BusinessandProfessional": 4.55,
+        "LeisureHolidayandRecreation": 68.85,
+        "Medical": 6.74,
+        "IndianDiaspora": 16.45,
+        "Others": 3.41
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "IRAQ",
+        "BusinessandProfessional": 0.82,
+        "LeisureHolidayandRecreation": 9.26,
+        "Medical": 84.72,
+        "IndianDiaspora": 1.81,
+        "Others": 3.38
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "ISRAEL",
+        "BusinessandProfessional": 27.21,
+        "LeisureHolidayandRecreation": 69.27,
+        "Medical": 0.02,
+        "IndianDiaspora": 2.6,
+        "Others": 0.9
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "OMAN",
+        "BusinessandProfessional": 1.6,
+        "LeisureHolidayandRecreation": 69.74,
+        "Medical": 26.26,
+        "IndianDiaspora": 1.9,
+        "Others": 0.5
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "SAUDI ARABIA",
+        "BusinessandProfessional": 4.47,
+        "LeisureHolidayandRecreation": 80.79,
+        "Medical": 9.03,
+        "IndianDiaspora": 4.27,
+        "Others": 1.45
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "TURKEY",
+        "BusinessandProfessional": 56.75,
+        "LeisureHolidayandRecreation": 37.6,
+        "Medical": 0.26,
+        "IndianDiaspora": 2.5,
+        "Others": 2.89
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "UNITED ARAB\nEMIRATES",
+        "BusinessandProfessional": 1.87,
+        "LeisureHolidayandRecreation": 94.64,
+        "Medical": 0.76,
+        "IndianDiaspora": 2.34,
+        "Others": 0.4
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "YEMEN",
+        "BusinessandProfessional": 5.13,
+        "LeisureHolidayandRecreation": 20.0,
+        "Medical": 54.87,
+        "IndianDiaspora": 7.23,
+        "Others": 12.77
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "Total",
+        "BusinessandProfessional": 9.94,
+        "LeisureHolidayandRecreation": 62.66,
+        "Medical": 21.93,
+        "IndianDiaspora": 3.34,
+        "Others": 2.13
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "AFGHANISTAN",
+        "BusinessandProfessional": 4.24,
+        "LeisureHolidayandRecreation": 43.57,
+        "Medical": 37.33,
+        "IndianDiaspora": 8.73,
+        "Others": 6.13
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "BANGLADESH",
+        "BusinessandProfessional": 4.66,
+        "LeisureHolidayandRecreation": 83.7,
+        "Medical": 10.28,
+        "IndianDiaspora": 0.67,
+        "Others": 0.66
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "BHUTAN",
+        "BusinessandProfessional": 0.0,
+        "LeisureHolidayandRecreation": 70.42,
+        "Medical": 0.0,
+        "IndianDiaspora": 19.72,
+        "Others": 9.86
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "IRAN",
+        "BusinessandProfessional": 5.86,
+        "LeisureHolidayandRecreation": 80.06,
+        "Medical": 0.25,
+        "IndianDiaspora": 5.83,
+        "Others": 7.99
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "MALDIVES",
+        "BusinessandProfessional": 5.68,
+        "LeisureHolidayandRecreation": 1.43,
+        "Medical": 68.56,
+        "IndianDiaspora": 10.49,
+        "Others": 13.83
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "NEPAL",
+        "BusinessandProfessional": 6.08,
+        "LeisureHolidayandRecreation": 73.48,
+        "Medical": 0.28,
+        "IndianDiaspora": 12.15,
+        "Others": 8.01
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "PAKISTAN",
+        "BusinessandProfessional": 6.85,
+        "LeisureHolidayandRecreation": 26.98,
+        "Medical": 4.03,
+        "IndianDiaspora": 1.37,
+        "Others": 60.77
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "SriLanka",
+        "BusinessandProfessional": 16.95,
+        "LeisureHolidayandRecreation": 68.16,
+        "Medical": 1.46,
+        "IndianDiaspora": 10.8,
+        "Others": 2.63
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "Total",
+        "BusinessandProfessional": 6.07,
+        "LeisureHolidayandRecreation": 78.42,
+        "Medical": 10.79,
+        "IndianDiaspora": 2.39,
+        "Others": 2.33
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH EAST ASIA",
+        "Country": "INDONESIA",
+        "BusinessandProfessional": 20.76,
+        "LeisureHolidayandRecreation": 61.87,
+        "Medical": 0.57,
+        "IndianDiaspora": 13.93,
+        "Others": 2.87
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH EAST ASIA",
+        "Country": "MALAYSIA",
+        "BusinessandProfessional": 7.05,
+        "LeisureHolidayandRecreation": 76.01,
+        "Medical": 0.14,
+        "IndianDiaspora": 14.36,
+        "Others": 2.44
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH EAST ASIA",
+        "Country": "MYANMAR\n(BURMA)",
+        "BusinessandProfessional": 5.79,
+        "LeisureHolidayandRecreation": 85.57,
+        "Medical": 3.14,
+        "IndianDiaspora": 2.43,
+        "Others": 3.07
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH EAST ASIA",
+        "Country": "PHILIPPINES",
+        "BusinessandProfessional": 26.81,
+        "LeisureHolidayandRecreation": 43.63,
+        "Medical": 0.56,
+        "IndianDiaspora": 8.32,
+        "Others": 20.67
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH EAST ASIA",
+        "Country": "SINGAPORE",
+        "BusinessandProfessional": 15.84,
+        "LeisureHolidayandRecreation": 37.5,
+        "Medical": 0.03,
+        "IndianDiaspora": 42.3,
+        "Others": 4.34
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH EAST ASIA",
+        "Country": "THAILAND",
+        "BusinessandProfessional": 11.42,
+        "LeisureHolidayandRecreation": 78.45,
+        "Medical": 0.01,
+        "IndianDiaspora": 6.44,
+        "Others": 3.68
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH EAST ASIA",
+        "Country": "VIETNAM",
+        "BusinessandProfessional": 15.34,
+        "LeisureHolidayandRecreation": 77.48,
+        "Medical": 0.07,
+        "IndianDiaspora": 2.5,
+        "Others": 4.61
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH EAST ASIA",
+        "Country": "Total",
+        "BusinessandProfessional": 11.42,
+        "LeisureHolidayandRecreation": 66.89,
+        "Medical": 0.43,
+        "IndianDiaspora": 17.21,
+        "Others": 4.05
+    },
+    {
+        "Year": "2017",
+        "Continent": "EAST ASIA",
+        "Country": "CHINA",
+        "BusinessandProfessional": 49.34,
+        "LeisureHolidayandRecreation": 45.55,
+        "Medical": 0.01,
+        "IndianDiaspora": 3.96,
+        "Others": 1.14
+    },
+    {
+        "Year": "2017",
+        "Continent": "EAST ASIA",
+        "Country": "JAPAN",
+        "BusinessandProfessional": 62.64,
+        "LeisureHolidayandRecreation": 32.97,
+        "Medical": 0.01,
+        "IndianDiaspora": 3.59,
+        "Others": 0.78
+    },
+    {
+        "Year": "2017",
+        "Continent": "EAST ASIA",
+        "Country": "REPUBLIC OF\nKOREA",
+        "BusinessandProfessional": 41.07,
+        "LeisureHolidayandRecreation": 52.12,
+        "Medical": 0.0,
+        "IndianDiaspora": 4.37,
+        "Others": 2.44
+    },
+    {
+        "Year": "2017",
+        "Continent": "EAST ASIA",
+        "Country": "TAIWAN",
+        "BusinessandProfessional": 29.73,
+        "LeisureHolidayandRecreation": 67.55,
+        "Medical": 0.01,
+        "IndianDiaspora": 2.27,
+        "Others": 0.44
+    },
+    {
+        "Year": "2017",
+        "Continent": "EAST ASIA",
+        "Country": "Total",
+        "BusinessandProfessional": 50.43,
+        "LeisureHolidayandRecreation": 44.27,
+        "Medical": 0.06,
+        "IndianDiaspora": 3.91,
+        "Others": 1.33
+    },
+    {
+        "Year": "2017",
+        "Continent": "AUSTRALASIA",
+        "Country": "AUSTRALIA",
+        "BusinessandProfessional": 8.53,
+        "LeisureHolidayandRecreation": 37.32,
+        "Medical": 0.06,
+        "IndianDiaspora": 52.23,
+        "Others": 1.86
+    },
+    {
+        "Year": "2017",
+        "Continent": "AUSTRALASIA",
+        "Country": "NEW ZEALAND",
+        "BusinessandProfessional": 7.7,
+        "LeisureHolidayandRecreation": 40.91,
+        "Medical": 0.16,
+        "IndianDiaspora": 47.26,
+        "Others": 3.97
+    },
+    {
+        "Year": "2017",
+        "Continent": "AUSTRALASIA",
+        "Country": "Total",
+        "BusinessandProfessional": 8.36,
+        "LeisureHolidayandRecreation": 38.05,
+        "Medical": 0.33,
+        "IndianDiaspora": 51.03,
+        "Others": 2.22
+    },
+    {
+        "Year": "2017",
+        "Continent": "AUSTRALASIA",
+        "Country": "Not Classified\nElsewhere",
+        "BusinessandProfessional": 12.98,
+        "LeisureHolidayandRecreation": 58.19,
+        "Medical": 1.15,
+        "IndianDiaspora": 7.77,
+        "Others": 19.92
+    },
+    {
+        "Year": "2017",
+        "Continent": "AUSTRALASIA",
+        "Country": "Grand Total",
+        "BusinessandProfessional": 13.78,
+        "LeisureHolidayandRecreation": 59.01,
+        "Medical": 4.93,
+        "IndianDiaspora": 19.33,
+        "Others": 2.95
+    },
+    {
+        "Year": "2016",
+        "Continent": "North America",
+        "Country": "CANADA",
+        "BusinessandProfessional": 4.63,
+        "LeisureHolidayandRecreation": 60.51,
+        "Medical": 0.09,
+        "IndianDiaspora": 31.11,
+        "Others": 3.66
+    },
+    {
+        "Year": "2016",
+        "Continent": "North America",
+        "Country": "United States of America",
+        "BusinessandProfessional": 11.81,
+        "LeisureHolidayandRecreation": 50.11,
+        "Medical": 0.05,
+        "IndianDiaspora": 34.38,
+        "Others": 3.65
+    },
+    {
+        "Year": "2016",
+        "Continent": "North America",
+        "Country": "Total",
+        "BusinessandProfessional": 10.3,
+        "LeisureHolidayandRecreation": 52.3,
+        "Medical": 0.06,
+        "IndianDiaspora": 33.69,
+        "Others": 3.65
+    },
+    {
+        "Year": "2016",
+        "Continent": "Central & South America",
+        "Country": "ARGENTINA",
+        "BusinessandProfessional": 10.72,
+        "LeisureHolidayandRecreation": 86.43,
+        "Medical": 0.01,
+        "IndianDiaspora": 1.93,
+        "Others": 0.91
+    },
+    {
+        "Year": "2016",
+        "Continent": "Central & South America",
+        "Country": "BRAZIL",
+        "BusinessandProfessional": 25.06,
+        "LeisureHolidayandRecreation": 67.57,
+        "Medical": 0.08,
+        "IndianDiaspora": 5.44,
+        "Others": 1.85
+    },
+    {
+        "Year": "2016",
+        "Continent": "Central & South America",
+        "Country": "MEXICO",
+        "BusinessandProfessional": 12.49,
+        "LeisureHolidayandRecreation": 82.44,
+        "Medical": 0.01,
+        "IndianDiaspora": 3.75,
+        "Others": 1.31
+    },
+    {
+        "Year": "2016",
+        "Continent": "Central & South America",
+        "Country": "Total",
+        "BusinessandProfessional": 16.94,
+        "LeisureHolidayandRecreation": 74.57,
+        "Medical": 0.08,
+        "IndianDiaspora": 6.06,
+        "Others": 2.35
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "AUSTRIA",
+        "BusinessandProfessional": 26.03,
+        "LeisureHolidayandRecreation": 59.44,
+        "Medical": 0.04,
+        "IndianDiaspora": 12.99,
+        "Others": 1.5
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "BELGIUM",
+        "BusinessandProfessional": 27.1,
+        "LeisureHolidayandRecreation": 49.55,
+        "Medical": 0.05,
+        "IndianDiaspora": 18.42,
+        "Others": 4.88
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "DENMARK",
+        "BusinessandProfessional": 38.41,
+        "LeisureHolidayandRecreation": 53.48,
+        "Medical": 0.09,
+        "IndianDiaspora": 6.71,
+        "Others": 1.3
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "FINLAND",
+        "BusinessandProfessional": 32.07,
+        "LeisureHolidayandRecreation": 60.78,
+        "Medical": 0.09,
+        "IndianDiaspora": 5.55,
+        "Others": 1.5
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "FRANCE",
+        "BusinessandProfessional": 21.3,
+        "LeisureHolidayandRecreation": 68.38,
+        "Medical": 0.03,
+        "IndianDiaspora": 7.59,
+        "Others": 2.71
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "GERMANY",
+        "BusinessandProfessional": 30.25,
+        "LeisureHolidayandRecreation": 60.1,
+        "Medical": 0.02,
+        "IndianDiaspora": 8.4,
+        "Others": 1.22
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "GREECE",
+        "BusinessandProfessional": 24.69,
+        "LeisureHolidayandRecreation": 61.33,
+        "Medical": 0.1,
+        "IndianDiaspora": 7.12,
+        "Others": 6.76
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "IRELAND",
+        "BusinessandProfessional": 23.13,
+        "LeisureHolidayandRecreation": 48.34,
+        "Medical": 0.11,
+        "IndianDiaspora": 26.64,
+        "Others": 1.78
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "ITALY",
+        "BusinessandProfessional": 33.61,
+        "LeisureHolidayandRecreation": 56.63,
+        "Medical": 0.04,
+        "IndianDiaspora": 8.74,
+        "Others": 0.98
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "NETHERLANDS",
+        "BusinessandProfessional": 31.5,
+        "LeisureHolidayandRecreation": 53.09,
+        "Medical": 0.13,
+        "IndianDiaspora": 12.87,
+        "Others": 2.42
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "NORWAY",
+        "BusinessandProfessional": 16.48,
+        "LeisureHolidayandRecreation": 62.02,
+        "Medical": 0.25,
+        "IndianDiaspora": 19.04,
+        "Others": 2.21
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "PORTUGAL",
+        "BusinessandProfessional": 7.21,
+        "LeisureHolidayandRecreation": 37.83,
+        "Medical": 0.03,
+        "IndianDiaspora": 48.54,
+        "Others": 6.38
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "SPAIN",
+        "BusinessandProfessional": 19.07,
+        "LeisureHolidayandRecreation": 74.24,
+        "Medical": 0.02,
+        "IndianDiaspora": 5.26,
+        "Others": 1.41
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "SWEDEN",
+        "BusinessandProfessional": 29.04,
+        "LeisureHolidayandRecreation": 58.68,
+        "Medical": 0.07,
+        "IndianDiaspora": 10.34,
+        "Others": 1.87
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "SWITZERLAND",
+        "BusinessandProfessional": 20.54,
+        "LeisureHolidayandRecreation": 68.04,
+        "Medical": 0.05,
+        "IndianDiaspora": 9.46,
+        "Others": 1.91
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "UNITED\nKINGDOM",
+        "BusinessandProfessional": 13.88,
+        "LeisureHolidayandRecreation": 53.26,
+        "Medical": 0.08,
+        "IndianDiaspora": 28.02,
+        "Others": 4.76
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "Total",
+        "BusinessandProfessional": 20.59,
+        "LeisureHolidayandRecreation": 57.53,
+        "Medical": 0.06,
+        "IndianDiaspora": 18.53,
+        "Others": 3.29
+    },
+    {
+        "Year": "2016",
+        "Continent": "Eastern Europe",
+        "Country": "CZECH REPUBLIC",
+        "BusinessandProfessional": 42.4,
+        "LeisureHolidayandRecreation": 52.48,
+        "Medical": 0.07,
+        "IndianDiaspora": 2.98,
+        "Others": 2.07
+    },
+    {
+        "Year": "2016",
+        "Continent": "Eastern Europe",
+        "Country": "HUNGARY",
+        "BusinessandProfessional": 26.77,
+        "LeisureHolidayandRecreation": 68.27,
+        "Medical": 0.01,
+        "IndianDiaspora": 3.71,
+        "Others": 1.23
+    },
+    {
+        "Year": "2016",
+        "Continent": "Eastern Europe",
+        "Country": "KAZAKHISTAN",
+        "BusinessandProfessional": 6.16,
+        "LeisureHolidayandRecreation": 85.62,
+        "Medical": 1.9,
+        "IndianDiaspora": 3.86,
+        "Others": 2.46
+    },
+    {
+        "Year": "2016",
+        "Continent": "Eastern Europe",
+        "Country": "POLAND",
+        "BusinessandProfessional": 22.69,
+        "LeisureHolidayandRecreation": 72.22,
+        "Medical": 0.01,
+        "IndianDiaspora": 3.5,
+        "Others": 1.58
+    },
+    {
+        "Year": "2016",
+        "Continent": "Eastern Europe",
+        "Country": "RUSSIAN\nFEDERATION",
+        "BusinessandProfessional": 11.05,
+        "LeisureHolidayandRecreation": 86.75,
+        "Medical": 0.09,
+        "IndianDiaspora": 1.31,
+        "Others": 0.81
+    },
+    {
+        "Year": "2016",
+        "Continent": "Eastern Europe",
+        "Country": "UKRAINE",
+        "BusinessandProfessional": 9.46,
+        "LeisureHolidayandRecreation": 81.27,
+        "Medical": 0.2,
+        "IndianDiaspora": 3.33,
+        "Others": 5.74
+    },
+    {
+        "Year": "2016",
+        "Continent": "Eastern Europe",
+        "Country": "Total",
+        "BusinessandProfessional": 14.69,
+        "LeisureHolidayandRecreation": 78.99,
+        "Medical": 2.57,
+        "IndianDiaspora": 2.02,
+        "Others": 1.72
+    },
+    {
+        "Year": "2016",
+        "Continent": "Africa",
+        "Country": "EGYPT",
+        "BusinessandProfessional": 47.2,
+        "LeisureHolidayandRecreation": 33.1,
+        "Medical": 0.7,
+        "IndianDiaspora": 8.6,
+        "Others": 10.5
+    },
+    {
+        "Year": "2016",
+        "Continent": "Africa",
+        "Country": "KENYA",
+        "BusinessandProfessional": 7.29,
+        "LeisureHolidayandRecreation": 30.95,
+        "Medical": 21.84,
+        "IndianDiaspora": 35.35,
+        "Others": 4.57
+    },
+    {
+        "Year": "2016",
+        "Continent": "Africa",
+        "Country": "MAURITIUS",
+        "BusinessandProfessional": 2.73,
+        "LeisureHolidayandRecreation": 83.36,
+        "Medical": 3.42,
+        "IndianDiaspora": 7.67,
+        "Others": 2.81
+    },
+    {
+        "Year": "2016",
+        "Continent": "Africa",
+        "Country": "NIGERIA",
+        "BusinessandProfessional": 18.23,
+        "LeisureHolidayandRecreation": 9.74,
+        "Medical": 44.34,
+        "IndianDiaspora": 14.16,
+        "Others": 13.53
+    },
+    {
+        "Year": "2016",
+        "Continent": "Africa",
+        "Country": "SOUTH AFRICA",
+        "BusinessandProfessional": 17.08,
+        "LeisureHolidayandRecreation": 68.53,
+        "Medical": 0.22,
+        "IndianDiaspora": 11.96,
+        "Others": 2.2
+    },
+    {
+        "Year": "2016",
+        "Continent": "Africa",
+        "Country": "SUDAN",
+        "BusinessandProfessional": 26.05,
+        "LeisureHolidayandRecreation": 18.88,
+        "Medical": 22.25,
+        "IndianDiaspora": 8.71,
+        "Others": 24.11
+    },
+    {
+        "Year": "2016",
+        "Continent": "Africa",
+        "Country": "UNITED\nREPUBLIC OF\nTANZAN",
+        "BusinessandProfessional": 11.6,
+        "LeisureHolidayandRecreation": 42.1,
+        "Medical": 22.55,
+        "IndianDiaspora": 14.73,
+        "Others": 9.02
+    },
+    {
+        "Year": "2016",
+        "Continent": "Africa",
+        "Country": "Total",
+        "BusinessandProfessional": 17.28,
+        "LeisureHolidayandRecreation": 42.51,
+        "Medical": 16.3,
+        "IndianDiaspora": 14.58,
+        "Others": 9.33
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "BAHRAIN",
+        "BusinessandProfessional": 4.78,
+        "LeisureHolidayandRecreation": 78.05,
+        "Medical": 5.3,
+        "IndianDiaspora": 8.58,
+        "Others": 3.3
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "IRAQ",
+        "BusinessandProfessional": 1.0,
+        "LeisureHolidayandRecreation": 31.42,
+        "Medical": 63.04,
+        "IndianDiaspora": 1.34,
+        "Others": 3.2
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "ISRAEL",
+        "BusinessandProfessional": 24.02,
+        "LeisureHolidayandRecreation": 72.35,
+        "Medical": 0.03,
+        "IndianDiaspora": 2.42,
+        "Others": 1.18
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "OMAN",
+        "BusinessandProfessional": 1.38,
+        "LeisureHolidayandRecreation": 76.13,
+        "Medical": 20.61,
+        "IndianDiaspora": 1.29,
+        "Others": 0.58
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "SAUDI ARABIA",
+        "BusinessandProfessional": 3.53,
+        "LeisureHolidayandRecreation": 87.06,
+        "Medical": 4.35,
+        "IndianDiaspora": 3.21,
+        "Others": 1.85
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "TURKEY",
+        "BusinessandProfessional": 53.26,
+        "LeisureHolidayandRecreation": 38.87,
+        "Medical": 0.18,
+        "IndianDiaspora": 3.38,
+        "Others": 4.32
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "UNITED ARAB\nEMIRATES",
+        "BusinessandProfessional": 1.44,
+        "LeisureHolidayandRecreation": 95.92,
+        "Medical": 0.44,
+        "IndianDiaspora": 1.65,
+        "Others": 0.56
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "YEMEN",
+        "BusinessandProfessional": 5.14,
+        "LeisureHolidayandRecreation": 26.38,
+        "Medical": 40.34,
+        "IndianDiaspora": 6.91,
+        "Others": 21.23
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 8.73,
+        "LeisureHolidayandRecreation": 70.9,
+        "Medical": 15.02,
+        "IndianDiaspora": 2.73,
+        "Others": 2.62
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "AFGHANISTAN",
+        "BusinessandProfessional": 2.7,
+        "LeisureHolidayandRecreation": 39.28,
+        "Medical": 42.57,
+        "IndianDiaspora": 9.7,
+        "Others": 5.75
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "BANGLADESH",
+        "BusinessandProfessional": 6.27,
+        "LeisureHolidayandRecreation": 78.58,
+        "Medical": 13.14,
+        "IndianDiaspora": 1.03,
+        "Others": 0.98
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "BHUTAN",
+        "BusinessandProfessional": 3.08,
+        "LeisureHolidayandRecreation": 86.15,
+        "Medical": 0.0,
+        "IndianDiaspora": 7.69,
+        "Others": 3.08
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "IRAN",
+        "BusinessandProfessional": 7.16,
+        "LeisureHolidayandRecreation": 77.46,
+        "Medical": 0.29,
+        "IndianDiaspora": 5.15,
+        "Others": 9.94
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "MALDIVES",
+        "BusinessandProfessional": 5.61,
+        "LeisureHolidayandRecreation": 0.52,
+        "Medical": 71.58,
+        "IndianDiaspora": 10.09,
+        "Others": 12.2
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "NEPAL",
+        "BusinessandProfessional": 7.58,
+        "LeisureHolidayandRecreation": 73.29,
+        "Medical": 0.9,
+        "IndianDiaspora": 9.03,
+        "Others": 9.21
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "PAKISTAN",
+        "BusinessandProfessional": 10.3,
+        "LeisureHolidayandRecreation": 12.31,
+        "Medical": 6.35,
+        "IndianDiaspora": 1.73,
+        "Others": 69.3
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "SRILANKA",
+        "BusinessandProfessional": 15.6,
+        "LeisureHolidayandRecreation": 70.57,
+        "Medical": 1.25,
+        "IndianDiaspora": 9.67,
+        "Others": 2.91
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 7.61,
+        "LeisureHolidayandRecreation": 72.37,
+        "Medical": 13.15,
+        "IndianDiaspora": 3.1,
+        "Others": 3.77
+    },
+    {
+        "Year": "2016",
+        "Continent": "South East Asia",
+        "Country": "INDONESIA",
+        "BusinessandProfessional": 26.99,
+        "LeisureHolidayandRecreation": 55.38,
+        "Medical": 0.42,
+        "IndianDiaspora": 12.69,
+        "Others": 4.52
+    },
+    {
+        "Year": "2016",
+        "Continent": "South East Asia",
+        "Country": "MALAYSIA",
+        "BusinessandProfessional": 7.78,
+        "LeisureHolidayandRecreation": 80.53,
+        "Medical": 0.07,
+        "IndianDiaspora": 8.54,
+        "Others": 3.09
+    },
+    {
+        "Year": "2016",
+        "Continent": "South East Asia",
+        "Country": "MYANMAR\n(BURMA)",
+        "BusinessandProfessional": 5.32,
+        "LeisureHolidayandRecreation": 86.98,
+        "Medical": 3.2,
+        "IndianDiaspora": 1.43,
+        "Others": 3.08
+    },
+    {
+        "Year": "2016",
+        "Continent": "South East Asia",
+        "Country": "PHILIPPINES",
+        "BusinessandProfessional": 25.63,
+        "LeisureHolidayandRecreation": 45.75,
+        "Medical": 0.37,
+        "IndianDiaspora": 6.84,
+        "Others": 21.4
+    },
+    {
+        "Year": "2016",
+        "Continent": "South East Asia",
+        "Country": "SINGAPORE",
+        "BusinessandProfessional": 17.88,
+        "LeisureHolidayandRecreation": 43.94,
+        "Medical": 0.03,
+        "IndianDiaspora": 33.13,
+        "Others": 5.03
+    },
+    {
+        "Year": "2016",
+        "Continent": "South East Asia",
+        "Country": "THAILAND",
+        "BusinessandProfessional": 13.06,
+        "LeisureHolidayandRecreation": 76.41,
+        "Medical": 0.01,
+        "IndianDiaspora": 5.83,
+        "Others": 4.68
+    },
+    {
+        "Year": "2016",
+        "Continent": "South East Asia",
+        "Country": "VIETNAM",
+        "BusinessandProfessional": 19.36,
+        "LeisureHolidayandRecreation": 71.41,
+        "Medical": 0.02,
+        "IndianDiaspora": 4.27,
+        "Others": 4.94
+    },
+    {
+        "Year": "2016",
+        "Continent": "South East Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 12.62,
+        "LeisureHolidayandRecreation": 69.7,
+        "Medical": 0.4,
+        "IndianDiaspora": 12.46,
+        "Others": 4.82
+    },
+    {
+        "Year": "2016",
+        "Continent": "East Asia",
+        "Country": "CHINA",
+        "BusinessandProfessional": 47.6,
+        "LeisureHolidayandRecreation": 47.86,
+        "Medical": 0.01,
+        "IndianDiaspora": 3.14,
+        "Others": 1.4
+    },
+    {
+        "Year": "2016",
+        "Continent": "East Asia",
+        "Country": "JAPAN",
+        "BusinessandProfessional": 61.74,
+        "LeisureHolidayandRecreation": 33.08,
+        "Medical": 0.01,
+        "IndianDiaspora": 4.3,
+        "Others": 0.87
+    },
+    {
+        "Year": "2016",
+        "Continent": "East Asia",
+        "Country": "REPUBLIC OF\nKOREA",
+        "BusinessandProfessional": 46.18,
+        "LeisureHolidayandRecreation": 45.18,
+        "Medical": 0.0,
+        "IndianDiaspora": 5.61,
+        "Others": 3.03
+    },
+    {
+        "Year": "2016",
+        "Continent": "East Asia",
+        "Country": "TAIWAN",
+        "BusinessandProfessional": 29.15,
+        "LeisureHolidayandRecreation": 68.58,
+        "Medical": 0.0,
+        "IndianDiaspora": 1.85,
+        "Others": 0.42
+    },
+    {
+        "Year": "2016",
+        "Continent": "East Asia",
+        "Country": "Total",
+        "BusinessandProfessional": 50.75,
+        "LeisureHolidayandRecreation": 43.61,
+        "Medical": 0.04,
+        "IndianDiaspora": 4.01,
+        "Others": 1.58
+    },
+    {
+        "Year": "2016",
+        "Continent": "Australasia",
+        "Country": "AUSTRALIA",
+        "BusinessandProfessional": 10.36,
+        "LeisureHolidayandRecreation": 50.56,
+        "Medical": 0.05,
+        "IndianDiaspora": 36.74,
+        "Others": 2.29
+    },
+    {
+        "Year": "2016",
+        "Continent": "Australasia",
+        "Country": "NEW ZEALAND",
+        "BusinessandProfessional": 8.49,
+        "LeisureHolidayandRecreation": 48.02,
+        "Medical": 0.06,
+        "IndianDiaspora": 38.58,
+        "Others": 4.86
+    },
+    {
+        "Year": "2016",
+        "Continent": "Australasia",
+        "Country": "Total",
+        "BusinessandProfessional": 9.98,
+        "LeisureHolidayandRecreation": 50.23,
+        "Medical": 0.32,
+        "IndianDiaspora": 36.67,
+        "Others": 2.8
+    },
+    {
+        "Year": "2016",
+        "Continent": "Australasia",
+        "Country": "Not Classified\nElsewhere",
+        "BusinessandProfessional": 12.78,
+        "LeisureHolidayandRecreation": 60.04,
+        "Medical": 0.62,
+        "IndianDiaspora": 8.29,
+        "Others": 18.28
+    },
+    {
+        "Year": "2016",
+        "Continent": "Australasia",
+        "Country": "Grand Total",
+        "BusinessandProfessional": 15.58,
+        "LeisureHolidayandRecreation": 61.48,
+        "Medical": 4.85,
+        "IndianDiaspora": 14.54,
+        "Others": 3.55
+    }
+]

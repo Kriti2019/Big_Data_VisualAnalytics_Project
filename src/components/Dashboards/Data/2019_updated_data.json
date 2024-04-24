@@ -1,0 +1,1248 @@
+[
+    {
+        "city": "Agra",
+        "monument": "Taj Mahal",
+        "domestic": 4429710.0,
+        "foreign": 645415.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra",
+        "monument": "Agra Fort",
+        "domestic": 1627154.0,
+        "foreign": 386522.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra",
+        "monument": "Fatehpur Sikri",
+        "domestic": 454376.0,
+        "foreign": 184751.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra",
+        "monument": "Akbar Tomb Sikandra",
+        "domestic": 229270.0,
+        "foreign": 19625.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra",
+        "monument": "Mariam tomb Sikandra",
+        "domestic": 22517.0,
+        "foreign": 414.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra",
+        "monument": "Itimad-ud-Daulah Tomb",
+        "domestic": 132800.0,
+        "foreign": 82692.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra",
+        "monument": "Ram Bagh",
+        "domestic": 84051.0,
+        "foreign": 355.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra",
+        "monument": "Mehtab Bagh",
+        "domestic": 178574.0,
+        "foreign": 62325.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra",
+        "monument": "Mausoleum",
+        "domestic": 474462.0,
+        "foreign": 12536.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Agra",
+        "monument": "Total",
+        "domestic": 7632914.0,
+        "foreign": 1394635.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Lucknow",
+        "monument": "Site of Sahet mahet",
+        "domestic": 74597.0,
+        "foreign": 13628.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Lucknow",
+        "monument": "Residency Building",
+        "domestic": 116348.0,
+        "foreign": 3367.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Lucknow",
+        "monument": "Piprahwa & Ganwaria",
+        "domestic": 38342.0,
+        "foreign": 3098.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Lucknow",
+        "monument": "Total",
+        "domestic": 229287.0,
+        "foreign": 20093.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Jhansi",
+        "monument": "Gupta Temple & Varah Temple, Deogarh",
+        "domestic": 1348.0,
+        "foreign": 32.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Jhansi",
+        "monument": "Kalinjar Fort",
+        "domestic": 81507.0,
+        "foreign": 137.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Jhansi",
+        "monument": "Rani Lakshmi Bai Mahal",
+        "domestic": 15954.0,
+        "foreign": 50.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Jhansi",
+        "monument": "Rani Jhansi Fort",
+        "domestic": 361294.0,
+        "foreign": 705.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Jhansi",
+        "monument": "Total",
+        "domestic": 460103.0,
+        "foreign": 924.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Sarnath",
+        "monument": " Lord Cornwallis Tomb",
+        "domestic": 18318.0,
+        "foreign": 85.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Sarnath",
+        "monument": " Old Fort (Shahi Fort), Jaunpur",
+        "domestic": 198922.0,
+        "foreign": 114.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Sarnath",
+        "monument": " Observatory of Man Singh",
+        "domestic": 83059.0,
+        "foreign": 954.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Sarnath",
+        "monument": "Excavated Remains at sarnath",
+        "domestic": 485309.0,
+        "foreign": 100590.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Sarnath",
+        "monument": "Tomb of Lal Khan",
+        "domestic": 6819.0,
+        "foreign": 9.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Sarnath",
+        "monument": " Ancient Buddhist Site known as Chaukhandi stupa",
+        "domestic": 55144.0,
+        "foreign": 5186.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Sarnath",
+        "monument": "Total",
+        "domestic": 847571.0,
+        "foreign": 106938.0,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Thrissur",
+        "monument": "Bekal Fort, Pallikkare, Distt. Kasargod",
+        "domestic": 334846.0,
+        "foreign": 728.0,
+        "state": "Kerala"
+    },
+    {
+        "city": "Thrissur",
+        "monument": "Mattancherry Palace Museum Kochi",
+        "domestic": 300465.0,
+        "foreign": 79355.0,
+        "state": "Kerala"
+    },
+    {
+        "city": "Thrissur",
+        "monument": "Fort, Palakkad, Palakkad",
+        "domestic": 174589.0,
+        "foreign": 241.0,
+        "state": "Kerala"
+    },
+    {
+        "city": "Thrissur",
+        "monument": "Fort St. Angelo, Kannur",
+        "domestic": 234518.0,
+        "foreign": 3305.0,
+        "state": "Kerala"
+    },
+    {
+        "city": "Thrissur",
+        "monument": "Total",
+        "domestic": 1044418.0,
+        "foreign": 83629.0,
+        "state": "Kerala"
+    },
+    {
+        "city": "Chennai",
+        "monument": "Group of Monuments Mamallapuram",
+        "domestic": 1260358.0,
+        "foreign": 53422.0,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Chennai",
+        "monument": "Gingee Fort , Gingee",
+        "domestic": 107073.0,
+        "foreign": 1736.0,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Chennai",
+        "monument": "Tiger headed Rock cut temple & two other monuments, Saluvankuppam",
+        "domestic": 43733.0,
+        "foreign": 1063.0,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Chennai",
+        "monument": "Total",
+        "domestic": 1411164.0,
+        "foreign": 56221.0,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Thiruchirapalli",
+        "monument": "Fort on Rock, Dindigual",
+        "domestic": 24657.0,
+        "foreign": 94.0,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Thiruchirapalli",
+        "monument": "Moovarkoil, Kodumbalur",
+        "domestic": 19114.0,
+        "foreign": 46.0,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Thiruchirapalli",
+        "monument": "Rock-cut Jain Temple, Sittannavasasl",
+        "domestic": 31876.0,
+        "foreign": 188.0,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Thiruchirapalli",
+        "monument": "Tirumalai Nayak\u00e2\u20ac\u2122s Palace Srivilliputhur",
+        "domestic": 30046.0,
+        "foreign": 460.0,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Thiruchirapalli",
+        "monument": "Natural Caven with inscription eladipattam, Sittannavasal",
+        "domestic": 23928.0,
+        "foreign": 645.0,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Thiruchirapalli",
+        "monument": "Fort Museum, Thirumayam",
+        "domestic": 294829.0,
+        "foreign": 5259.0,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Thiruchirapalli",
+        "monument": "Fort Vattakottai",
+        "domestic": 159492.0,
+        "foreign": 340.0,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Thiruchirapalli",
+        "monument": "Total",
+        "domestic": 583942.0,
+        "foreign": 7032.0,
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Bhopal",
+        "monument": "Buddhist Caves",
+        "domestic": 19920.0,
+        "foreign": 42.0,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Bhopal",
+        "monument": "The palace situated in the fort, Burhanpur",
+        "domestic": 47305.0,
+        "foreign": 272.0,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Bhopal",
+        "monument": "Hoshang Shah\u00e2\u20ac\u2122s Tomb",
+        "domestic": 130094.0,
+        "foreign": 2017.0,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Bhopal",
+        "monument": "Group of monument, Royal Palace Mandu",
+        "domestic": 408302.0,
+        "foreign": 2427.0,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Bhopal",
+        "monument": "Roopmati's Pavilion",
+        "domestic": 392485.0,
+        "foreign": 1884.0,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Bhopal",
+        "monument": "Buddhist Monuments, Sanchi",
+        "domestic": 250706.0,
+        "foreign": 3986.0,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Bhopal",
+        "monument": "Gwalior Fort",
+        "domestic": 255734.0,
+        "foreign": 7744.0,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Bhopal",
+        "monument": "Buddhist cave no 01 to 51 Dhamnar, Tehsil Garoth",
+        "domestic": 32578.0,
+        "foreign": 4.0,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Bhopal",
+        "monument": "Badal Mahal Gatwway, Chanderi",
+        "domestic": 13708.0,
+        "foreign": 89.0,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Bhopal",
+        "monument": "Caves 1 to 20 Udaygiri Vidisha",
+        "domestic": 53546.0,
+        "foreign": 741.0,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Bhopal",
+        "monument": "Bir Singh Palace Datia",
+        "domestic": 23382.0,
+        "foreign": 736.0,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Bhopal",
+        "monument": "Total",
+        "domestic": 1627760.0,
+        "foreign": 19942.0,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Jabalpur",
+        "monument": "Ancient Site and Adamgrah rock shelter, Kalamdi Rasuliya and kishanpur",
+        "domestic": 23354.0,
+        "foreign": 18.0,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Jabalpur",
+        "monument": "Western Group of Temples, Khajuraho",
+        "domestic": 244995.0,
+        "foreign": 41741.0,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Jabalpur",
+        "monument": "Group of Temple Parameshvar shiv and Karan Temple, Amarkantak",
+        "domestic": 57408.0,
+        "foreign": 42.0,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Jabalpur",
+        "monument": "Total",
+        "domestic": 325757.0,
+        "foreign": 41801.0,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Dharwad",
+        "monument": "Durga temple complx Aihole",
+        "domestic": 186767.0,
+        "foreign": 3849.0,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Dharwad",
+        "monument": "Jaina & Vaishnava Cave, Badami",
+        "domestic": 372051.0,
+        "foreign": 6758.0,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Dharwad",
+        "monument": "Group of Monuments (WH) Pattadakal",
+        "domestic": 262144.0,
+        "foreign": 4310.0,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Dharwad",
+        "monument": "Gol Gumbaz, Vijayapura",
+        "domestic": 813943.0,
+        "foreign": 1683.0,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Dharwad",
+        "monument": "Ibrahim Rauza, Bijapur",
+        "domestic": 155565.0,
+        "foreign": 1290.0,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Dharwad",
+        "monument": "Temples & Sculpture Shed, lakkumdi",
+        "domestic": 13019.0,
+        "foreign": 91.0,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Dharwad",
+        "monument": "Total",
+        "domestic": 1803489.0,
+        "foreign": 17981.0,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Hampi",
+        "monument": "Group of Monuments, Hampi",
+        "domestic": 587238.0,
+        "foreign": 27006.0,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Hampi",
+        "monument": "Bellary Fort",
+        "domestic": 28723.0,
+        "foreign": 56.0,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Hampi",
+        "monument": "Total",
+        "domestic": 615961.0,
+        "foreign": 27062.0,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Banglore",
+        "monument": "Dariya Daulath Bagh",
+        "domestic": 646560.0,
+        "foreign": 14016.0,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Banglore",
+        "monument": "Keshava Temple",
+        "domestic": 178425.0,
+        "foreign": 8653.0,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Banglore",
+        "monument": "Palace of Tipu Sultan",
+        "domestic": 256964.0,
+        "foreign": 10719.0,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Banglore",
+        "monument": "Fortress and Temple Chitrudurga Fort",
+        "domestic": 338340.0,
+        "foreign": 1095.0,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Banglore",
+        "monument": "Total",
+        "domestic": 1420289.0,
+        "foreign": 34483.0,
+        "state": "Karnataka"
+    },
+    {
+        "city": "Raiganj",
+        "monument": "Cooch Bihar Palace",
+        "domestic": 465553.0,
+        "foreign": 52.0,
+        "state": "West Bengal"
+    },
+    {
+        "city": "Raiganj",
+        "monument": "Hazarduari Palace",
+        "domestic": 674113.0,
+        "foreign": 1723.0,
+        "state": "West Bengal"
+    },
+    {
+        "city": "Raiganj",
+        "monument": "Total",
+        "domestic": 1139666.0,
+        "foreign": 1775.0,
+        "state": "West Bengal"
+    },
+    {
+        "city": "Kolkata",
+        "monument": "Bishnupur Temples",
+        "domestic": 154986.0,
+        "foreign": 505.0,
+        "state": "West Bengal"
+    },
+    {
+        "city": "Kolkata",
+        "monument": "Metcelf-Hall",
+        "domestic": 605.0,
+        "foreign": 27.0,
+        "state": "West Bengal"
+    },
+    {
+        "city": "Kolkata",
+        "monument": "Total",
+        "domestic": 155591.0,
+        "foreign": 532.0,
+        "state": "West Bengal"
+    },
+    {
+        "city": "Rajkot",
+        "monument": "Asokan Rock Edict, Jungadh",
+        "domestic": 6176.0,
+        "foreign": 168.0,
+        "state": "Gujarat"
+    },
+    {
+        "city": "Rajkot",
+        "monument": "Buddhish Caves, Junagadh",
+        "domestic": 18755.0,
+        "foreign": 796.0,
+        "state": "Gujarat"
+    },
+    {
+        "city": "Rajkot",
+        "monument": "Baba Pyara Caves, Junagadh & Khapra Khodiya Caves, Junagadh",
+        "domestic": 5858.0,
+        "foreign": 142.0,
+        "state": "Gujarat"
+    },
+    {
+        "city": "Rajkot",
+        "monument": "Total",
+        "domestic": 30789.0,
+        "foreign": 1106.0,
+        "state": "Gujarat"
+    },
+    {
+        "city": "Vadodara",
+        "monument": "Champaner Monuments, Pavagadh",
+        "domestic": 59402.0,
+        "foreign": 1948.0,
+        "state": "Gujarat"
+    },
+    {
+        "city": "Vadodara",
+        "monument": "Sun temple, Modhera",
+        "domestic": 208028.0,
+        "foreign": 3732.0,
+        "state": "Gujarat"
+    },
+    {
+        "city": "Vadodara",
+        "monument": "Rani Ki-Vav, Patan",
+        "domestic": 337134.0,
+        "foreign": 3816.0,
+        "state": "Gujarat"
+    },
+    {
+        "city": "Vadodara",
+        "monument": "Rudabai Step Well, Adalaj",
+        "domestic": 388042.0,
+        "foreign": 7907.0,
+        "state": "Gujarat"
+    },
+    {
+        "city": "Vadodara",
+        "monument": "Total",
+        "domestic": 992606.0,
+        "foreign": 17403.0,
+        "state": "Gujarat"
+    },
+    {
+        "city": "Bhubaneswar",
+        "monument": "Sun Temple, Konark",
+        "domestic": 1997427.0,
+        "foreign": 5294.0,
+        "state": "Odisha"
+    },
+    {
+        "city": "Bhubaneswar",
+        "monument": "Ancient Remains on both Udaigiri & Khandagiri Hills",
+        "domestic": 311115.0,
+        "foreign": 2489.0,
+        "state": "Odisha"
+    },
+    {
+        "city": "Bhubaneswar",
+        "monument": "Rajarani Temple",
+        "domestic": 16916.0,
+        "foreign": 506.0,
+        "state": "Odisha"
+    },
+    {
+        "city": "Bhubaneswar",
+        "monument": "The Hill Containing Many Valuable Sculptures and Images Ratnagiri",
+        "domestic": 34562.0,
+        "foreign": 571.0,
+        "state": "Odisha"
+    },
+    {
+        "city": "Bhubaneswar",
+        "monument": "Ruins of Buddhist Temples and Images lalitgiri",
+        "domestic": 44573.0,
+        "foreign": 389.0,
+        "state": "Odisha"
+    },
+    {
+        "city": "Bhubaneswar",
+        "monument": "Total",
+        "domestic": 2404593.0,
+        "foreign": 9249.0,
+        "state": "Odisha"
+    },
+    {
+        "city": "Aurangabad",
+        "monument": "Ajanta Caves",
+        "domestic": 273344.0,
+        "foreign": 15899.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Aurangabad",
+        "monument": "Ellora Caves",
+        "domestic": 1259261.0,
+        "foreign": 21426.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Aurangabad",
+        "monument": "Tomb of Rabia Durani (Bibi ka Maqbara)",
+        "domestic": 1111778.0,
+        "foreign": 9530.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Aurangabad",
+        "monument": "Daulatabad Fort",
+        "domestic": 515935.0,
+        "foreign": 5729.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Aurangabad",
+        "monument": "Pandulena Caves",
+        "domestic": 202871.0,
+        "foreign": 1128.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Aurangabad",
+        "monument": "Aurangabad Caves",
+        "domestic": 182032.0,
+        "foreign": 2690.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Aurangabad",
+        "monument": "Total",
+        "domestic": 3545221.0,
+        "foreign": 56402.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai",
+        "monument": "Elephanta Caves",
+        "domestic": 686862.0,
+        "foreign": 37891.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai",
+        "monument": "Buddhist Caves Kanheri",
+        "domestic": 401808.0,
+        "foreign": 12106.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai",
+        "monument": "Shaniwarwada",
+        "domestic": 1128072.0,
+        "foreign": 8505.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai",
+        "monument": "Aga  Khan Palace Building",
+        "domestic": 219939.0,
+        "foreign": 9264.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai",
+        "monument": "Cave, Temple and Inscriptions, Junaar, Lenyadri",
+        "domestic": 354946.0,
+        "foreign": 105.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai",
+        "monument": "Caves, Temples and inscriptions Karla",
+        "domestic": 219758.0,
+        "foreign": 2068.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai",
+        "monument": "Cave Temple & Inscriptions, Bhaja",
+        "domestic": 80319.0,
+        "foreign": 1872.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai",
+        "monument": "Raigad Fort",
+        "domestic": 218338.0,
+        "foreign": 82.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai",
+        "monument": "Kolaba Fort, Alibag",
+        "domestic": 112405.0,
+        "foreign": 112.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai",
+        "monument": "Old Fort, Sholapur",
+        "domestic": 62238.0,
+        "foreign": 45.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai",
+        "monument": "Janjira Fort, Murd",
+        "domestic": 253315.0,
+        "foreign": 151.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai",
+        "monument": "Kondiote Caves",
+        "domestic": 41490.0,
+        "foreign": 591.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai",
+        "monument": "Lohgad Fort",
+        "domestic": 161651.0,
+        "foreign": 579.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai",
+        "monument": "Total",
+        "domestic": 3941141.0,
+        "foreign": 73371.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Nagpur",
+        "monument": "Gawilgarh Fort",
+        "domestic": 43795.0,
+        "foreign": 11.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Nagpur",
+        "monument": "Ancient Buddhist Remains comprising monstery stupa, rock sculptures, inscriptions ect Mansar",
+        "domestic": 1596.0,
+        "foreign": 65.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Nagpur",
+        "monument": "Total",
+        "domestic": 45391.0,
+        "foreign": 76.0,
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Chandigarh",
+        "monument": "Suraj Kund",
+        "domestic": 91447.0,
+        "foreign": 72.0,
+        "state": "Chandigarh"
+    },
+    {
+        "city": "Chandigarh",
+        "monument": "Sheikh Chilli's Tomb",
+        "domestic": 39763.0,
+        "foreign": 46.0,
+        "state": "Chandigarh"
+    },
+    {
+        "city": "Chandigarh",
+        "monument": "Total",
+        "domestic": 131210.0,
+        "foreign": 118.0,
+        "state": "Chandigarh"
+    },
+    {
+        "city": "Delhi",
+        "monument": "Khan-I-Khana",
+        "domestic": 1782.0,
+        "foreign": 45.0,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi",
+        "monument": "Sultanghari Tomb",
+        "domestic": 530.0,
+        "foreign": 6.0,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi",
+        "monument": "Tughluqabad",
+        "domestic": 76135.0,
+        "foreign": 908.0,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi",
+        "monument": "Red Fort",
+        "domestic": 2200044.0,
+        "foreign": 91364.0,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi",
+        "monument": "Humayun Tomb",
+        "domestic": 658318.0,
+        "foreign": 202288.0,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi",
+        "monument": "Qutub Minar",
+        "domestic": 2048146.0,
+        "foreign": 255318.0,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi",
+        "monument": "Hauzkhas",
+        "domestic": 145544.0,
+        "foreign": 2625.0,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi",
+        "monument": "Jantar Mantar",
+        "domestic": 203197.0,
+        "foreign": 6516.0,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi",
+        "monument": "Safdarjung Tomb",
+        "domestic": 72938.0,
+        "foreign": 15977.0,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi",
+        "monument": "Kotla Feroz Shah",
+        "domestic": 89397.0,
+        "foreign": 810.0,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi",
+        "monument": "Purana Qila",
+        "domestic": 662300.0,
+        "foreign": 5493.0,
+        "state": "Delhi"
+    },
+    {
+        "city": "Delhi",
+        "monument": "Total",
+        "domestic": 6158331.0,
+        "foreign": 581350.0,
+        "state": "Delhi"
+    },
+    {
+        "city": "Guwahati",
+        "monument": "Ahom Raja's Palace",
+        "domestic": 44700.0,
+        "foreign": 175.0,
+        "state": "Assam"
+    },
+    {
+        "city": "Guwahati",
+        "monument": "Kareghar of Ahom Kings, Sibasagar",
+        "domestic": 119912.0,
+        "foreign": 577.0,
+        "state": "Assam"
+    },
+    {
+        "city": "Guwahati",
+        "monument": "Ranghar Pavillion, Jaisagar",
+        "domestic": 69063.0,
+        "foreign": 546.0,
+        "state": "Assam"
+    },
+    {
+        "city": "Guwahati",
+        "monument": "Bishnudol",
+        "domestic": 21062.0,
+        "foreign": 118.0,
+        "state": "Assam"
+    },
+    {
+        "city": "Guwahati",
+        "monument": "Group of four Maidans Charaideo, Sibasagar",
+        "domestic": 23111.0,
+        "foreign": 141.0,
+        "state": "Assam"
+    },
+    {
+        "city": "Guwahati",
+        "monument": "Total",
+        "domestic": 277848.0,
+        "foreign": 1557.0,
+        "state": "Assam"
+    },
+    {
+        "city": "Goa",
+        "monument": "Upper Fort Aguada",
+        "domestic": 837898.0,
+        "foreign": 8104.0,
+        "state": "Goa"
+    },
+    {
+        "city": "Goa",
+        "monument": "Total",
+        "domestic": 837898.0,
+        "foreign": 8104.0,
+        "state": "Goa"
+    },
+    {
+        "city": "Hyderabad",
+        "monument": "Charminar",
+        "domestic": 1151933.0,
+        "foreign": 7803.0,
+        "state": "Telangana"
+    },
+    {
+        "city": "Hyderabad",
+        "monument": "Golconda",
+        "domestic": 1630419.0,
+        "foreign": 20572.0,
+        "state": "Telangana"
+    },
+    {
+        "city": "Hyderabad",
+        "monument": "Warangal",
+        "domestic": 92690.0,
+        "foreign": 277.0,
+        "state": "Telangana"
+    },
+    {
+        "city": "Hyderabad",
+        "monument": "Total",
+        "domestic": 2875042.0,
+        "foreign": 28652.0,
+        "state": "Telangana"
+    },
+    {
+        "city": "Jaipur",
+        "monument": "Ancient Site Bhangarh",
+        "domestic": 190833.0,
+        "foreign": 1893.0,
+        "state": "Rajasthan"
+    },
+    {
+        "city": "Jaipur",
+        "monument": "Baori at Abhaneri",
+        "domestic": 66821.0,
+        "foreign": 85732.0,
+        "state": "Rajasthan"
+    },
+    {
+        "city": "Jaipur",
+        "monument": "Deeg Bhawan",
+        "domestic": 28510.0,
+        "foreign": 1067.0,
+        "state": "Rajasthan"
+    },
+    {
+        "city": "Jaipur",
+        "monument": "Total",
+        "domestic": 286164.0,
+        "foreign": 88692.0,
+        "state": "Rajasthan"
+    },
+    {
+        "city": "Jodhpur",
+        "monument": "Chittaurgarh Fort",
+        "domestic": 565133.0,
+        "foreign": 15188.0,
+        "state": "Rajasthan"
+    },
+    {
+        "city": "Jodhpur",
+        "monument": "Kumbhalgarh Fort",
+        "domestic": 495276.0,
+        "foreign": 11208.0,
+        "state": "Rajasthan"
+    },
+    {
+        "city": "Jodhpur",
+        "monument": "Marble Pavillion and balustrade on the Ana Sagar bund and ruins of the marble Hammam Behind the Ana sagar Bund",
+        "domestic": 241299.0,
+        "foreign": 98.0,
+        "state": "Rajasthan"
+    },
+    {
+        "city": "Jodhpur",
+        "monument": "Total",
+        "domestic": 1301708.0,
+        "foreign": 26494.0,
+        "state": "Rajasthan"
+    },
+    {
+        "city": "Leh",
+        "monument": "Ancient Palace Leh",
+        "domestic": 56639.0,
+        "foreign": 5671.0,
+        "state": "Ladakh"
+    },
+    {
+        "city": "Leh",
+        "monument": "Total",
+        "domestic": 56639.0,
+        "foreign": 5671.0,
+        "state": "Ladakh"
+    },
+    {
+        "city": "Patna",
+        "monument": "Remains of Patliputra Site of Mauryan Palace, Kumrahar",
+        "domestic": 109962.0,
+        "foreign": 207.0,
+        "state": "Bihar"
+    },
+    {
+        "city": "Patna",
+        "monument": "Ancient site of Vaishali, Kolhua",
+        "domestic": 89631.0,
+        "foreign": 12962.0,
+        "state": "Bihar"
+    },
+    {
+        "city": "Patna",
+        "monument": "Excavated Remains at Nalanda",
+        "domestic": 437506.0,
+        "foreign": 26903.0,
+        "state": "Bihar"
+    },
+    {
+        "city": "Patna",
+        "monument": "Ancient Site of Vikramshila Antichak",
+        "domestic": 65573.0,
+        "foreign": 436.0,
+        "state": "Bihar"
+    },
+    {
+        "city": "Patna",
+        "monument": "Sher Shah's Tomb",
+        "domestic": 208177.0,
+        "foreign": 153.0,
+        "state": "Bihar"
+    },
+    {
+        "city": "Patna",
+        "monument": "Total",
+        "domestic": 910849.0,
+        "foreign": 40661.0,
+        "state": "Bihar"
+    },
+    {
+        "city": "Raipur",
+        "monument": "Temple of Laxman and Old sites including sculptures sirpur",
+        "domestic": 63759.0,
+        "foreign": 96.0,
+        "state": "Chhattisgarh"
+    },
+    {
+        "city": "Raipur",
+        "monument": "Total",
+        "domestic": 63759.0,
+        "foreign": 96.0,
+        "state": "Chhattisgarh"
+    },
+    {
+        "city": "Shimla",
+        "monument": "Ruined Fort, kangra",
+        "domestic": 91306.0,
+        "foreign": 1758.0,
+        "state": "Himachal Pradesh"
+    },
+    {
+        "city": "Shimla",
+        "monument": "Rock-cut Temples and Sculptures",
+        "domestic": 73439.0,
+        "foreign": 1709.0,
+        "state": "Himachal Pradesh"
+    },
+    {
+        "city": "Shimla",
+        "monument": "Total",
+        "domestic": 164745.0,
+        "foreign": 3467.0,
+        "state": "Himachal Pradesh"
+    },
+    {
+        "city": "Srinagar",
+        "monument": "Palace Complex at Ramnagar, Distt. Udhampur",
+        "domestic": 6610.0,
+        "foreign": 0.0,
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "city": "Srinagar",
+        "monument": "Avantiswamin Temple, Avantipur, District Pulwama",
+        "domestic": 9939.0,
+        "foreign": 32.0,
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "city": "Srinagar",
+        "monument": "Group of Temples at kiramchi, District Udhampur",
+        "domestic": 5731.0,
+        "foreign": 4.0,
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "city": "Srinagar",
+        "monument": "Total",
+        "domestic": 22280.0,
+        "foreign": 36.0,
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "city": "Amaravati",
+        "monument": "Amaravati mahastupa",
+        "domestic": 8038.0,
+        "foreign": 285.0,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "city": "Amaravati",
+        "monument": "Undavalli caves",
+        "domestic": 109307.0,
+        "foreign": 494.0,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "city": "Amaravati",
+        "monument": "Nagarjuna Kunda",
+        "domestic": 19762.0,
+        "foreign": 35.0,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "city": "Amaravati",
+        "monument": "Chandragiri Monument",
+        "domestic": 103489.0,
+        "foreign": 109.0,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "city": "Amaravati",
+        "monument": "Buddhist Remains on hill top at Guntupalli, W.G.District",
+        "domestic": 22353.0,
+        "foreign": 85.0,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "city": "Amaravati",
+        "monument": "Total",
+        "domestic": 262949.0,
+        "foreign": 1008.0,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "city": "Amaravati",
+        "monument": "Grand Total",
+        "domestic": 43607075.0,
+        "foreign": 2756561.0,
+        "state": "Andhra Pradesh"
+    }
+]
